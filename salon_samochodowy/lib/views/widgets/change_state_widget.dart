@@ -12,7 +12,7 @@ class ChangeStateWidget extends StatelessWidget {
       padding: const EdgeInsets.symmetric(),
       child: Center(
         child: Padding(
-          padding: const EdgeInsets.all(45.0),
+          padding: const EdgeInsets.all(40.0),
           child: Column(
               children: [
                 Row(
