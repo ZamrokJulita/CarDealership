@@ -14,14 +14,27 @@ class DetailsAboutACarWidget extends StatelessWidget {
         padding: EdgeInsets.only(top: 80.0),
         child: Column(
           children: [
-            Text(
-              'BMW iX3',
-              style: TextStyle(
-                fontSize: 20.0,
-                fontWeight: FontWeight.bold,
-                color: Colors.blue,
-              ),
-              textAlign: TextAlign.center,
+            Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                Padding(
+                  padding: const EdgeInsets.only(right:15.0),
+                  child: Text(
+                    'BMW iX3',
+                    style: TextStyle(
+                      fontSize: 20.0,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.blue,
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                ),
+                Iconify(
+                  Mdi.pencil,
+                  size: 20,
+                  color: Colors.blue,
+                ),
+              ],
             ),
             Padding(
               padding: const EdgeInsets.only(top: 20.0,bottom: 20.0,left:2.0),
@@ -128,6 +141,44 @@ class DetailsAboutACarWidget extends StatelessWidget {
                                     padding: const EdgeInsets.only(right:15.0),
                                     child: Text(
                                         '247 955 PLN',
+                                        style:TextStyle(
+                                            fontSize:15.0,
+                                            fontWeight: FontWeight.bold,
+                                            color:Colors.black
+                                        )
+                                    ),
+                                  )
+                                ]
+                            )
+                        ),
+                      ),
+                      Padding(
+                        padding: const EdgeInsets.only(top:20.0),
+                        child: Container(
+                            width:350,
+                            height:50,
+                            decoration: BoxDecoration(
+                              color: Colors.grey,
+                              borderRadius: BorderRadius.circular(15.0),
+                            ),
+                            child:Row(
+                                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                children:[
+                                  Padding(
+                                    padding: const EdgeInsets.only(left:15.0),
+                                    child: Text(
+                                        'Kolor lakieru',
+                                        style:TextStyle(
+                                            fontSize:15.0,
+                                            fontWeight: FontWeight.bold,
+                                            color:Colors.black
+                                        )
+                                    ),
+                                  ),
+                                  Padding(
+                                    padding: const EdgeInsets.only(right:15.0),
+                                    child: Text(
+                                        'Storm Bay metalizowany',
                                         style:TextStyle(
                                             fontSize:15.0,
                                             fontWeight: FontWeight.bold,
