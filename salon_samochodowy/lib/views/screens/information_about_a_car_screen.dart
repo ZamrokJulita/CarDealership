@@ -6,6 +6,7 @@ import '../widgets/footer_widget.dart';
 class InformationAboutACarScreen extends StatelessWidget{
   const InformationAboutACarScreen({super.key, required String title});
 
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

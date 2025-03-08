@@ -21,7 +21,7 @@ class NewCarsWidget extends StatelessWidget {
               ),
             ),
             Text(
-              'Nowe samochody',
+              'Lista samochodów',
               textAlign: TextAlign.center,
               style: TextStyle(
                 color: Colors.black,

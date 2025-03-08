@@ -50,7 +50,6 @@ class _NewCarsScreenState extends State<NewCarsScreen> {
               ),
               children: [
                 const SizedBox(height: 16),
-                // Model i Rodzaj nadwozia w jednej linii
                 Row(
                   children: [
                     // Model
@@ -105,11 +104,8 @@ class _NewCarsScreenState extends State<NewCarsScreen> {
                   ],
                 ),
                 const SizedBox(height: 16),
-
-                // Rodzaj napędu i Rodzaj paliwa w jednej linii
                 Row(
                   children: [
-                    // Rodzaj napędu
                     Expanded(
                       child: DriveTypeDropdown(
                         selectedDriveType: selectedDriveType,
@@ -121,7 +117,6 @@ class _NewCarsScreenState extends State<NewCarsScreen> {
                       ),
                     ),
                     SizedBox(width: 16),
-                    // Rodzaj paliwa
                     Expanded(
                       child: FuelTypeDropdown(
                         selectedFuelType: selectedFuelType,
@@ -135,12 +130,8 @@ class _NewCarsScreenState extends State<NewCarsScreen> {
                   ],
                 ),
                 const SizedBox(height: 16),
-
-
-                // Skrzynia biegów i Moc silnika w jednej linii
                 Row(
                   children: [
-                    // Skrzynia biegów
                     Expanded(
                       child: GearboxTypeDropdown(
                         selectedGearbox: selectedGearbox,
@@ -152,7 +143,6 @@ class _NewCarsScreenState extends State<NewCarsScreen> {
                       ),
                     ),
                     SizedBox(width: 16),
-                    // Moc silnika
                     Expanded(
                       child: EnginePowerSlider(
                         enginePower: enginePower,
@@ -167,8 +157,6 @@ class _NewCarsScreenState extends State<NewCarsScreen> {
                   ],
                 ),
                 const SizedBox(height: 16),
-
-                // Cena
                 PriceSlider(
                   price: price,
                   onChanged: (double value) {
@@ -177,7 +165,6 @@ class _NewCarsScreenState extends State<NewCarsScreen> {
                     });
                   },
                 ),
-
               ],
             ),
             const SizedBox(height: 16),
@@ -234,8 +221,6 @@ class _NewCarsScreenState extends State<NewCarsScreen> {
                             ),
                           ),
                         ),
-
-
                     ],
                   ),
                 ),
@@ -274,8 +259,6 @@ class _NewCarsScreenState extends State<NewCarsScreen> {
                           ),
                         ),
                       ),
-
-
                     ],
                   ),
                 ),
@@ -313,8 +296,6 @@ class _NewCarsScreenState extends State<NewCarsScreen> {
                           ),
                         ),
                       ),
-
-
                     ],
                   ),
                 ),
@@ -322,7 +303,6 @@ class _NewCarsScreenState extends State<NewCarsScreen> {
             ),
           ],
         ),
-
       ),
       bottomNavigationBar: FooterWidget(),
     );

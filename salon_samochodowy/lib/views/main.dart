@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'screens/home_screen.dart';
-import 'screens/new_cars_screen.dart';
-import 'screens/used_cars_screen.dart';
 import 'widgets/footer_widget.dart';
 import 'widgets/header_widget.dart';
 
@@ -41,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: PreferredSize(
-        preferredSize: const Size.fromHeight(80), // Ustaw wysokość AppBar
+        preferredSize: const Size.fromHeight(80),
         child: HeaderWidget(),
       ),
       body: SafeArea(

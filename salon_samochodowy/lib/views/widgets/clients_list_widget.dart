@@ -1,12 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:iconify_flutter/iconify_flutter.dart';
-import 'package:iconify_flutter/icons/ph.dart';
+import 'package:iconify_flutter/icons/material_symbols.dart';
 import 'package:iconify_flutter/icons/mdi.dart';
-import 'package:salon_samochodowy/views/screens/used_cars_screen.dart';
+import 'package:salon_samochodowy/views/screens/list_of_clients_screen.dart';
 
-import '../screens/new_cars_screen.dart';
 
-class UsedCarsWidget extends StatelessWidget {
+class ClientsListWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -22,7 +21,7 @@ class UsedCarsWidget extends StatelessWidget {
                       Transform.translate(
                         offset: Offset(30, 0),
                       child: Iconify(
-                        Ph.car_simple_bold,
+                        MaterialSymbols.person,
                         size: 80,
                         color: Colors.blue,
                       ),
@@ -41,7 +40,7 @@ class UsedCarsWidget extends StatelessWidget {
                   ],
                 ),
                 Text(
-                  'Używane samochody',
+                  'Lista klientów',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     color: Colors.black,
@@ -56,7 +55,7 @@ class UsedCarsWidget extends StatelessWidget {
                   height: 45,
                   child: ElevatedButton(
                       onPressed: (){
-                        Navigator.push(context, MaterialPageRoute(builder: (context) => const NewCarsScreen(title: 'New cars')));
+                        Navigator.push(context, MaterialPageRoute(builder: (context) => const ListOfClientsScreen(title: 'List of Clients')));
                       },
                       style: ElevatedButton.styleFrom(
                         backgroundColor: Color(0xD9D9D9),

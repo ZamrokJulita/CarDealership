@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../widgets/new_car_widget.dart';
-import '../widgets/used_cars_widget.dart';
+import '../widgets/clients_list_widget.dart';
 import '../widgets/add_car_widget.dart';
 
 class HomeScreen extends StatelessWidget{
@@ -13,8 +13,8 @@ class HomeScreen extends StatelessWidget{
       children: [
         const SizedBox(height: 16),
         NewCarsWidget(),
-        UsedCarsWidget(),
-        ChangeStateWidget(),
+        ClientsListWidget(),
+        AddCarWidget(),
       ]
     ),
     );

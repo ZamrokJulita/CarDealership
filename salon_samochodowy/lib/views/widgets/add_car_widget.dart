@@ -4,7 +4,7 @@ import 'package:iconify_flutter/icons/ph.dart';
 import 'package:iconify_flutter/icons/mdi.dart';
 import 'package:salon_samochodowy/views/screens/add_car_screen.dart';
 
-class ChangeStateWidget extends StatelessWidget {
+class AddCarWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
