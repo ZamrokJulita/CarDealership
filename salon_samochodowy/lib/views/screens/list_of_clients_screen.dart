@@ -1,20 +1,7 @@
 import 'package:flutter/material.dart';
 import '../widgets/header_widget.dart';
 import '../widgets/list_of_clients_widget.dart';
-
-class Client {
-  final String firstName;
-  final String lastName;
-  final String email;
-  final String phone;
-
-  Client({
-    required this.firstName,
-    required this.lastName,
-    required this.email,
-    required this.phone,
-  });
-}
+import '../models/client_mock.dart';
 
 class ListOfClientsScreen extends StatefulWidget {
   const ListOfClientsScreen({super.key, required String title});

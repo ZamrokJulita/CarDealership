@@ -4,6 +4,7 @@ import 'package:iconify_flutter/iconify_flutter.dart';
 import 'package:iconify_flutter/icons/ph.dart';
 import 'package:iconify_flutter/icons/mdi.dart';
 import 'package:salon_samochodowy/views/screens/information_about_a_car_screen.dart';
+import 'package:salon_samochodowy/views/screens/list_of_clients_and_sales_screen.dart';
 import '../screens/client_form_screen.dart';
 
 
@@ -535,7 +536,7 @@ class _InformationAboutACarWidgetState extends State<InformationAboutACarWidget>
               height: 45,
               child: ElevatedButton(
                 onPressed: () {
-                  Navigator.push(context,MaterialPageRoute(builder: (context)=>ClientFormScreen(title: 'ClientForm')),);
+                  Navigator.push(context,MaterialPageRoute(builder: (context)=>ListOfClientsAndSalesScreen(title: 'ListOfClientsAndSales')),);
                 },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Color(0xD9D9D9),

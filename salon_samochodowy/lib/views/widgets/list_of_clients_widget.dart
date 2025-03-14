@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../screens/list_of_clients_screen.dart';
+import '../models/client_mock.dart';
 
 class ListOfClientsWidget extends StatelessWidget {
   final List<Client> filteredClients;
@@ -87,7 +88,7 @@ class ListOfClientsWidget extends StatelessWidget {
                             ],
                           ),
                           Text(
-                            client.phone, // Numer telefonu po prawej
+                            client.phone,
                             style: const TextStyle(
                               fontSize: 16,
                               fontWeight: FontWeight.bold,
