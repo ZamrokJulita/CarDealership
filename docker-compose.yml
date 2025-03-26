@@ -1,0 +1,28 @@
+services:
+  postgres:
+    image: postgres:latest
+    container_name: my_postgres
+    restart: always
+    environment:
+      POSTGRES_DB: car_db
+      POSTGRES_USER: myuser
+      POSTGRES_PASSWORD: mypassword
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    networks:
+      - car_network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U myuser -d car_db"]
+      interval: 5s # Check every 5 seconds
+      timeout: 3s
+      retries: 5 # Fail after 5 unsuccessful attempts
+
+volumes:
+  pg_data:
+    driver: local
+
+networks:
+  car_network:
+    driver: bridge

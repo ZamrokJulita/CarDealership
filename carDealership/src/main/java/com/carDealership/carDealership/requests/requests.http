@@ -1,0 +1,184 @@
+### Wypisujemy wszystkie silniki
+GET http://localhost:8080/api/engines
+Accept: application/json
+
+### Wypisujemy wszystkie silniki elektryczne
+GET http://localhost:8080/api/engines/electric
+Accept: application/json
+
+### Wypisujemy wszystkie silniki spalinowe
+GET http://localhost:8080/api/engines/combustion
+Accept: application/json
+
+### Dodajemy nowy silnik elektryczny
+POST http://localhost:8080/api/engines
+Content-Type: application/json
+
+{
+  "type": "electric",
+  "power": 3,
+  "fuelType": "wow",
+  "capacity": 23.32
+}
+
+### Update'ujemy silnik elektryczny znając ID
+PUT http://localhost:8080/api/engines
+Content-Type: application/json
+
+{
+  "id": 1,
+  "type": "electric",
+  "power": 15,
+  "fuelType": "wow",
+  "capacity": 23.32
+}
+
+### Usuwamy silnik po ID
+DELETE http://localhost:8080/api/engines/1
+Accept: application/json
+
+### Wypisujemy wszystkie samochody
+GET http://localhost:8080/api/cars
+Accept: application/json
+
+### Dodajemy nowy samochod
+POST http://localhost:8080/api/cars
+Content-Type: application/json
+
+{
+    "name": "Tesla Model S",
+    "model": "wow",
+    "color": "Red",
+    "acceleration": 3.1,
+    "transmission": "wow",
+    "topSpeed": 250.5,
+    "gasMileage": 0.0,
+    "drivetrainType": "wow",
+    "description": "Luxury electric sedan with high performance.",
+    "bodyType": "wow",
+    "price": 79999.99,
+    "imagePath": "/images/tesla-model-s.jpg",
+    "vinNumber": "dncdn",
+    "productionYear": 1999
+}
+
+### Usuwamy samochod po ID
+DELETE http://localhost:8080/api/cars/1
+Accept: application/json
+
+### Dodajemy silnik do samochodu po ich ID
+PUT http://localhost:8080/api/cars/1/add-engine/1
+
+### Update'ujemy samochód po jego ID
+PUT http://localhost:8080/api/cars
+Content-Type: application/json
+
+{
+    "id": 2,
+    "name": "Tesla Model S",
+    "model": "wow",
+    "color": "Pink",
+    "acceleration": 3.1,
+    "transmission": "wow",
+    "topSpeed": 250.5,
+    "gasMileage": 0.0,
+    "drivetrainType": "wow",
+    "description": "Luxury electric sedan with high performance.",
+    "bodyType": "wow",
+    "price": 79999.99,
+    "imagePath": "/images/tesla-model-s.jpg",
+    "vinNumber": "dncdn",
+    "productionYear": 1999
+}
+
+### Wypisujemy wszystkich klientów
+GET http://localhost:8080/api/clients
+Accept: application/json
+
+### Wypisujemy wszystkich klientów prywatnych
+GET http://localhost:8080/api/clients/individual
+Accept: application/json
+
+### Wypisujemy wszystkich klientów firmowych
+GET http://localhost:8080/api/clients/corporate
+Accept: application/json
+
+### Dodajemy nowego klienta indywidualnego
+POST http://localhost:8080/api/clients
+Content-Type: application/json
+
+{
+  "type": "individual",
+  "name": "John",
+  "surname": "Doe",
+  "pesel": "12345678901",
+  "address": "123 Main Street, New York",
+  "phoneNumber": "+1 123 456 789",
+  "email": "john.doe@example.com"
+}
+
+### Dodajemy nowego klienta firmowego
+POST http://localhost:8080/api/clients
+Content-Type: application/json
+
+{
+  "type": "corporate",
+  "companyName": "Tech Solutions LLC",
+  "nip": "1234567890",
+  "address": "456 Business Avenue, Chicago",
+  "phoneNumber": "+1 987 654 321",
+  "email": "contact@techsolutions.com"
+}
+
+### Updateujemy klienta firmowego
+PUT http://localhost:8080/api/clients
+Content-Type: application/json
+
+{
+  "id": 2,
+  "type": "corporate",
+  "companyName": "OpenIA",
+  "nip": "1234567890",
+  "address": "456 Business Avenue, Chicago",
+  "phoneNumber": "+1 989 654 321",
+  "email": "contact@techsolutions.com"
+}
+
+### Usuwamy klienta po ID
+DELETE http://localhost:8080/api/clients/1
+Accept: application/json
+
+### Wypisujemy wszystkie transakcje
+GET http://localhost:8080/api/transactions
+Accept: application/json
+
+### Dodajemy transakcję
+POST http://localhost:8080/api/transactions
+Content-Type: application/json
+
+{
+  "totalAmount": 35000.00,
+  "paymentMethod": "cos",
+  "registered": true,
+  "insured": false,
+  "clientId": 2,
+  "carId": 1
+}
+
+### Usuwamy transakcję po ID
+DELETE http://localhost:8080/api/transactions/5
+Accept: application/json
+
+### Update'ujemy transakcję
+PUT http://localhost:8080/api/transactions
+Content-Type: application/json
+
+{
+  "id": 4,
+  "totalAmount": 999000.00,
+  "paymentMethod": "cos",
+  "registered": true,
+  "insured": false,
+  "clientId": 2,
+  "carId": 1
+}
