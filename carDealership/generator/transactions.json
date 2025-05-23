@@ -1,0 +1,227 @@
+[
+  {
+    "transactionDate": "2025-03-19T04:31:20",
+    "totalAmount": 618500.0,
+    "paymentMethod": "gotówka",
+    "registered": true,
+    "insured": false,
+    "clientId": 44,
+    "carId": 20
+  },
+  {
+    "transactionDate": "2024-10-26T02:46:19",
+    "totalAmount": 179000.0,
+    "paymentMethod": "karta kredytowa",
+    "registered": false,
+    "insured": false,
+    "clientId": 39,
+    "carId": 81
+  },
+  {
+    "transactionDate": "2025-03-09T06:35:23",
+    "totalAmount": 334000.0,
+    "paymentMethod": "przelew",
+    "registered": true,
+    "insured": false,
+    "clientId": 49,
+    "carId": 35
+  },
+  {
+    "transactionDate": "2024-10-04T23:07:59",
+    "totalAmount": 199000.0,
+    "paymentMethod": "karta kredytowa",
+    "registered": true,
+    "insured": false,
+    "clientId": 87,
+    "carId": 32
+  },
+  {
+    "transactionDate": "2024-11-28T08:45:24",
+    "totalAmount": 266500.0,
+    "paymentMethod": "karta kredytowa",
+    "registered": true,
+    "insured": false,
+    "clientId": 68,
+    "carId": 75
+  },
+  {
+    "transactionDate": "2024-05-28T22:04:25",
+    "totalAmount": 214000.0,
+    "paymentMethod": "gotówka",
+    "registered": false,
+    "insured": false,
+    "clientId": 64,
+    "carId": 44
+  },
+  {
+    "transactionDate": "2025-03-16T23:05:35",
+    "totalAmount": 230500.0,
+    "paymentMethod": "przelew",
+    "registered": false,
+    "insured": false,
+    "clientId": 99,
+    "carId": 29
+  },
+  {
+    "transactionDate": "2024-05-02T17:50:08",
+    "totalAmount": 335000.0,
+    "paymentMethod": "gotówka",
+    "registered": true,
+    "insured": false,
+    "clientId": 45,
+    "carId": 6
+  },
+  {
+    "transactionDate": "2025-01-09T01:03:17",
+    "totalAmount": 372500.0,
+    "paymentMethod": "karta kredytowa",
+    "registered": true,
+    "insured": true,
+    "clientId": 36,
+    "carId": 62
+  },
+  {
+    "transactionDate": "2023-03-28T04:10:36",
+    "totalAmount": 192500.0,
+    "paymentMethod": "karta kredytowa",
+    "registered": true,
+    "insured": false,
+    "clientId": 47,
+    "carId": 30
+  },
+  {
+    "transactionDate": "2025-05-13T08:35:46",
+    "totalAmount": 588200.0,
+    "paymentMethod": "gotówka",
+    "registered": false,
+    "insured": true,
+    "clientId": 75,
+    "carId": 59
+  },
+  {
+    "transactionDate": "2024-09-30T11:03:43",
+    "totalAmount": 207500.0,
+    "paymentMethod": "karta kredytowa",
+    "registered": true,
+    "insured": true,
+    "clientId": 43,
+    "carId": 46
+  },
+  {
+    "transactionDate": "2023-01-08T11:01:26",
+    "totalAmount": 560500.0,
+    "paymentMethod": "przelew",
+    "registered": true,
+    "insured": false,
+    "clientId": 48,
+    "carId": 76
+  },
+  {
+    "transactionDate": "2025-04-09T16:45:21",
+    "totalAmount": 334000.0,
+    "paymentMethod": "gotówka",
+    "registered": true,
+    "insured": true,
+    "clientId": 14,
+    "carId": 45
+  },
+  {
+    "transactionDate": "2023-03-29T15:44:18",
+    "totalAmount": 350000.0,
+    "paymentMethod": "karta kredytowa",
+    "registered": true,
+    "insured": true,
+    "clientId": 62,
+    "carId": 12
+  },
+  {
+    "transactionDate": "2024-09-20T11:19:57",
+    "totalAmount": 560000.0,
+    "paymentMethod": "gotówka",
+    "registered": false,
+    "insured": true,
+    "clientId": 70,
+    "carId": 8
+  },
+  {
+    "transactionDate": "2025-04-23T18:30:26",
+    "totalAmount": 350500.0,
+    "paymentMethod": "przelew",
+    "registered": true,
+    "insured": false,
+    "clientId": 42,
+    "carId": 65
+  },
+  {
+    "transactionDate": "2025-03-14T18:16:23",
+    "totalAmount": 655500.0,
+    "paymentMethod": "karta kredytowa",
+    "registered": true,
+    "insured": true,
+    "clientId": 13,
+    "carId": 50
+  },
+  {
+    "transactionDate": "2023-11-01T05:52:32",
+    "totalAmount": 478000.0,
+    "paymentMethod": "gotówka",
+    "registered": false,
+    "insured": true,
+    "clientId": 8,
+    "carId": 26
+  },
+  {
+    "transactionDate": "2024-07-12T10:41:53",
+    "totalAmount": 740000.0,
+    "paymentMethod": "karta kredytowa",
+    "registered": true,
+    "insured": false,
+    "clientId": 54,
+    "carId": 34
+  },
+  {
+    "transactionDate": "2022-11-15T00:20:31",
+    "totalAmount": 633500.0,
+    "paymentMethod": "karta kredytowa",
+    "registered": false,
+    "insured": true,
+    "clientId": 22,
+    "carId": 25
+  },
+  {
+    "transactionDate": "2024-07-25T21:50:29",
+    "totalAmount": 327500.0,
+    "paymentMethod": "karta kredytowa",
+    "registered": false,
+    "insured": true,
+    "clientId": 12,
+    "carId": 47
+  },
+  {
+    "transactionDate": "2025-03-26T21:34:02",
+    "totalAmount": 245500.0,
+    "paymentMethod": "przelew",
+    "registered": false,
+    "insured": true,
+    "clientId": 65,
+    "carId": 42
+  },
+  {
+    "transactionDate": "2025-01-12T12:36:47",
+    "totalAmount": 280500.0,
+    "paymentMethod": "gotówka",
+    "registered": true,
+    "insured": true,
+    "clientId": 85,
+    "carId": 43
+  },
+  {
+    "transactionDate": "2022-05-18T09:15:00",
+    "totalAmount": 780000.0,
+    "paymentMethod": "przelew",
+    "registered": true,
+    "insured": true,
+    "clientId": 38,
+    "carId": 21
+  }
+]

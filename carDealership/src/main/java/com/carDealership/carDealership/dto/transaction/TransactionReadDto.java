@@ -38,7 +38,7 @@ public class TransactionReadDto {
         this.id = transaction.getId();
         this.transactionDate = transaction.getTransactionDate();
         this.totalAmount = transaction.getTotalAmount();
-        this.paymentMethod = transaction.getPaymentMethod().toString();
+        this.paymentMethod = transaction.getPaymentMethod().getDisplayName();
         this.registered = transaction.isRegistered();
         this.insured = transaction.isInsured();
         this.client = new ClientReadDto(transaction.getClient());

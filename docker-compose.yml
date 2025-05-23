@@ -4,13 +4,14 @@ services:
     container_name: my_postgres
     restart: always
     environment:
-      POSTGRES_DB: car_db
-      POSTGRES_USER: myuser
+      #POSTGRES_DB: car_db
+      #POSTGRES_USER: myuser
       POSTGRES_PASSWORD: mypassword
     ports:
       - "5432:5432"
     volumes:
       - pg_data:/var/lib/postgresql/data
+      - ./postgres/car.sql:/docker-entrypoint-initdb.d/car.sql:ro
     networks:
       - car_network
     healthcheck:

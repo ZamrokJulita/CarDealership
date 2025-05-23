@@ -1,0 +1,852 @@
+[
+  {
+    "type": "individual",
+    "name": "Janina",
+    "surname": "Kopa",
+    "pesel": 854798217,
+    "address": "ul. Wschodnia 54/98, 58-227 Iława",
+    "phoneNumber": "514 746 132",
+    "email": "andrzejwasiuk@example.org"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Stowarzyszenie Tarach-Wenda i syn s.c.",
+    "nip": 734467539,
+    "address": "aleja Nadbrzeżna 78, 38-540 Skawina",
+    "phoneNumber": "737 034 313",
+    "email": "aurelia61@example.com"
+  },
+  {
+    "type": "individual",
+    "name": "Dawid",
+    "surname": "Bubak",
+    "pesel": 871981561,
+    "address": "al. Częstochowska 13, 53-517 Piastów",
+    "phoneNumber": "+48 784 733 240",
+    "email": "cyprian50@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Gabinety Kosman S.A.",
+    "nip": 520124227,
+    "address": "ulica Glówna 76, 51-255 Bydgoszcz",
+    "phoneNumber": "+48 22 283 85 71",
+    "email": "wolocholiwier@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Krzysztof",
+    "surname": "Bielas",
+    "pesel": 681336900,
+    "address": "plac Pocztowa 130, 14-940 Sanok",
+    "phoneNumber": "32 800 14 07",
+    "email": "rozalia44@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Stowarzyszenie Pociask-Deszcz Sp.j.",
+    "nip": 674464241,
+    "address": "aleja Mieszka I 49, 25-314 Gliwice",
+    "phoneNumber": "661 188 562",
+    "email": "nozkadagmara@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Mikołaj",
+    "surname": "Wojtach",
+    "pesel": 843933046,
+    "address": "aleja Księżycowa 889, 49-834 Nowy Dwór Mazowiecki",
+    "phoneNumber": "+48 601 357 152",
+    "email": "krystianmajos@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "FPUH Mularz",
+    "nip": 278833431,
+    "address": "al. Piastowska 59, 85-193 Słupsk",
+    "phoneNumber": "+48 505 903 060",
+    "email": "vros@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Jeremi",
+    "surname": "Borak",
+    "pesel": 633105605,
+    "address": "ul. Lelewela 00/63, 12-398 Puławy",
+    "phoneNumber": "+48 32 254 96 43",
+    "email": "marianna25@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "FPUH Cyroń",
+    "nip": 710226193,
+    "address": "aleja Rataja 390, 49-739 Ostrów Mazowiecka",
+    "phoneNumber": "22 343 61 58",
+    "email": "wjedruch@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Aleksander",
+    "surname": "Siatka",
+    "pesel": 713698594,
+    "address": "plac Kilińskiego 66, 55-445 Ostrołęka",
+    "phoneNumber": "+48 737 434 841",
+    "email": "muniakkrystyna@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Działa-Świerkot Sp.k.",
+    "nip": 174037878,
+    "address": "plac Składowa 262, 94-414 Luboń",
+    "phoneNumber": "786 062 348",
+    "email": "dorociakjuliusz@example.com"
+  },
+  {
+    "type": "individual",
+    "name": "Nataniel",
+    "surname": "Tolak",
+    "pesel": 299863495,
+    "address": "pl. Bursztynowa 192, 53-737 Sochaczew",
+    "phoneNumber": "+48 662 411 002",
+    "email": "wciepla@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Spółdzielnia Hyży",
+    "nip": 469508367,
+    "address": "ulica Andersa 531, 45-671 Chorzów",
+    "phoneNumber": "511 891 152",
+    "email": "idagrymuza@example.com"
+  },
+  {
+    "type": "individual",
+    "name": "Sara",
+    "surname": "Pyrz",
+    "pesel": 697331756,
+    "address": "plac Bolesława Krzywoustego 25/34, 96-167 Łomża",
+    "phoneNumber": "662 657 693",
+    "email": "kazubekmaciej@example.org"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Stowarzyszenie Mroczko-Lesiewicz i syn s.c.",
+    "nip": 880245709,
+    "address": "al. Staffa 07, 19-126 Świdnik",
+    "phoneNumber": "+48 794 932 029",
+    "email": "ljozwik@example.org"
+  },
+  {
+    "type": "individual",
+    "name": "Nela",
+    "surname": "Chadaj",
+    "pesel": 923392089,
+    "address": "plac Zachodnia 34, 09-187 Jaworzno",
+    "phoneNumber": "790 171 212",
+    "email": "tymon62@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Golon-Rudyk s.c.",
+    "nip": 681764800,
+    "address": "plac Jaśminowa 916, 24-943 Głogów",
+    "phoneNumber": "730 068 419",
+    "email": "lorenzbartek@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Kamil",
+    "surname": "Rosłon",
+    "pesel": 668261153,
+    "address": "ulica Spokojna 21/72, 76-065 Śrem",
+    "phoneNumber": "+48 601 896 786",
+    "email": "vbondyra@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "FPUH Stanisławek",
+    "nip": 269492058,
+    "address": "pl. Wybickiego 05, 66-557 Marki",
+    "phoneNumber": "503 783 928",
+    "email": "iwosuperson@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Gabriel",
+    "surname": "Pastucha",
+    "pesel": 244460004,
+    "address": "pl. Polna 90/25, 97-600 Gniezno",
+    "phoneNumber": "+48 697 142 598",
+    "email": "jacek10@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "PPUH Leoniuk Sp. z o.o. Sp.k.",
+    "nip": 839854974,
+    "address": "al. Listopada 16/84, 29-768 Chojnice",
+    "phoneNumber": "532 270 835",
+    "email": "piotr56@example.com"
+  },
+  {
+    "type": "individual",
+    "name": "Sylwia",
+    "surname": "Śliz",
+    "pesel": 736174843,
+    "address": "aleja Malinowa 49, 69-288 Płock",
+    "phoneNumber": "+48 698 012 580",
+    "email": "kazimierczuknatasza@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Fundacja Tarach i syn s.c.",
+    "nip": 705739887,
+    "address": "ul. Pułaskiego 428, 18-536 Rybnik",
+    "phoneNumber": "726 756 892",
+    "email": "adamkedziorek@example.com"
+  },
+  {
+    "type": "individual",
+    "name": "Alan",
+    "surname": "Fura",
+    "pesel": 222658824,
+    "address": "ul. Graniczna 31/55, 21-265 Racibórz",
+    "phoneNumber": "+48 887 393 517",
+    "email": "jan50@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Walenciak-Drgas S.A.",
+    "nip": 183987087,
+    "address": "aleja Mazurska 32/72, 52-059 Mielec",
+    "phoneNumber": "797 673 172",
+    "email": "jkiepas@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Marika",
+    "surname": "Minkiewicz",
+    "pesel": 263721492,
+    "address": "al. Konstytucji 3 Maja 23/73, 85-409 Sopot",
+    "phoneNumber": "+48 789 265 030",
+    "email": "stempinblanka@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Wojtiuk-Szulczyk s.c.",
+    "nip": 881663594,
+    "address": "pl. Traugutta 563, 84-050 Zawiercie",
+    "phoneNumber": "+48 505 873 352",
+    "email": "nataniel22@example.org"
+  },
+  {
+    "type": "individual",
+    "name": "Bianka",
+    "surname": "Kazimierczuk",
+    "pesel": 885201085,
+    "address": "ul. Toruńska 47, 41-614 Piotrków Trybunalski",
+    "phoneNumber": "+48 721 416 160",
+    "email": "liwia37@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Piekara-Powązka i syn s.c.",
+    "nip": 664965621,
+    "address": "ulica Wysoka 060, 72-209 Nowy Dwór Mazowiecki",
+    "phoneNumber": "578 985 656",
+    "email": "koperekaniela@example.org"
+  },
+  {
+    "type": "individual",
+    "name": "Sara",
+    "surname": "Granat",
+    "pesel": 406017368,
+    "address": "aleja Górnicza 48, 48-741 Jaworzno",
+    "phoneNumber": "609 264 983",
+    "email": "jandrys@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "PPUH Łaszczyk S.A.",
+    "nip": 146749628,
+    "address": "ul. Zapolskiej 967, 79-966 Tarnowskie Góry",
+    "phoneNumber": "+48 727 948 935",
+    "email": "konstanty34@example.org"
+  },
+  {
+    "type": "individual",
+    "name": "Józef",
+    "surname": "Sajnóg",
+    "pesel": 569444369,
+    "address": "ul. Młyńska 29, 30-347 Tarnobrzeg",
+    "phoneNumber": "698 779 988",
+    "email": "szymon40@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Grupa Roczniak-Ciesielczyk i syn s.c.",
+    "nip": 628211145,
+    "address": "pl. Jana 07/09, 62-857 Poznań",
+    "phoneNumber": "731 790 909",
+    "email": "dominikbodek@example.org"
+  },
+  {
+    "type": "individual",
+    "name": "Lidia",
+    "surname": "Ligenza",
+    "pesel": 393204325,
+    "address": "aleja Wiśniowa 952, 68-266 Jarocin",
+    "phoneNumber": "788 423 460",
+    "email": "kaja71@example.org"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Stowarzyszenie Wolańczyk",
+    "nip": 671336794,
+    "address": "aleja Jaskółcza 19/29, 22-684 Siedlce",
+    "phoneNumber": "780 050 208",
+    "email": "iwanowjustyna@example.org"
+  },
+  {
+    "type": "individual",
+    "name": "Marianna",
+    "surname": "Steckiewicz",
+    "pesel": 606014190,
+    "address": "aleja Warszawska 27, 47-200 Suwałki",
+    "phoneNumber": "+48 22 403 14 58",
+    "email": "rbondyra@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Różak-Minkiewicz Sp.j.",
+    "nip": 468387350,
+    "address": "pl. Pomorska 152, 71-420 Skawina",
+    "phoneNumber": "732 288 100",
+    "email": "ukostek@example.com"
+  },
+  {
+    "type": "individual",
+    "name": "Leon",
+    "surname": "Duras",
+    "pesel": 865903502,
+    "address": "aleja Miodowa 69/57, 86-446 Płońsk",
+    "phoneNumber": "32 234 43 64",
+    "email": "nikodemkozieja@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Stowarzyszenie Styn",
+    "nip": 624074902,
+    "address": "aleja Rzeczna 739, 48-649 Ełk",
+    "phoneNumber": "605 531 853",
+    "email": "imolak@example.com"
+  },
+  {
+    "type": "individual",
+    "name": "Apolonia",
+    "surname": "Polnik",
+    "pesel": 613883481,
+    "address": "ulica Szymanowskiego 20/58, 86-775 Polkowice",
+    "phoneNumber": "576 443 358",
+    "email": "nela76@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Fundacja Poniedziałek",
+    "nip": 667912179,
+    "address": "plac Pomorska 08, 57-703 Mikołów",
+    "phoneNumber": "+48 510 266 022",
+    "email": "anastazja74@example.com"
+  },
+  {
+    "type": "individual",
+    "name": "Hubert",
+    "surname": "Muniak",
+    "pesel": 852891257,
+    "address": "aleja Dębowa 14, 38-744 Malbork",
+    "phoneNumber": "+48 22 947 36 24",
+    "email": "omakaruk@example.org"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Fundacja Machniak",
+    "nip": 167207991,
+    "address": "ul. Maczka 08/52, 09-112 Jelenia Góra",
+    "phoneNumber": "664 803 151",
+    "email": "natangogol@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Anita",
+    "surname": "Tomalak",
+    "pesel": 255306853,
+    "address": "aleja Żabia 89/33, 64-170 Mysłowice",
+    "phoneNumber": "602 374 603",
+    "email": "justynaszumacher@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "PPUH Jewuła-Brachman Sp. z o.o. Sp.k.",
+    "nip": 324445932,
+    "address": "aleja Zakole 825, 13-928 Dębica",
+    "phoneNumber": "+48 735 757 253",
+    "email": "biankagolenia@example.com"
+  },
+  {
+    "type": "individual",
+    "name": "Melania",
+    "surname": "Zimniak",
+    "pesel": 385758261,
+    "address": "aleja Klonowa 783, 80-706 Gniezno",
+    "phoneNumber": "+48 786 546 785",
+    "email": "nicoleboduch@example.org"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Stowarzyszenie Kolka",
+    "nip": 892174799,
+    "address": "ulica Paderewskiego 51, 33-894 Czerwionka-Leszczyny",
+    "phoneNumber": "+48 793 682 651",
+    "email": "marek03@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Anita",
+    "surname": "Strójwąs",
+    "pesel": 329434434,
+    "address": "al. Stawowa 502, 96-063 Police",
+    "phoneNumber": "+48 727 439 535",
+    "email": "ciapajanina@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "FPUH Kuliberda-Utrata Sp.j.",
+    "nip": 348159859,
+    "address": "al. Klonowa 774, 26-200 Zduńska Wola",
+    "phoneNumber": "+48 660 775 579",
+    "email": "gmalas@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Tobiasz",
+    "surname": "Skotarczak",
+    "pesel": 638098871,
+    "address": "ul. Zaciszna 427, 60-847 Legnica",
+    "phoneNumber": "+48 737 721 641",
+    "email": "xrajtar@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Nazar Sp.j.",
+    "nip": 636065757,
+    "address": "pl. Storczykowa 09, 97-804 Lubliniec",
+    "phoneNumber": "32 012 00 40",
+    "email": "eryk93@example.org"
+  },
+  {
+    "type": "individual",
+    "name": "Mariusz",
+    "surname": "Pietrek",
+    "pesel": 851070401,
+    "address": "ul. Mostowa 78/52, 15-554 Tarnów",
+    "phoneNumber": "+48 32 381 78 09",
+    "email": "leonard83@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Parafiniuk i syn s.c.",
+    "nip": 759688618,
+    "address": "ulica Akacjowa 360, 99-511 Starogard Gdański",
+    "phoneNumber": "+48 798 283 990",
+    "email": "urszuladziob@example.org"
+  },
+  {
+    "type": "individual",
+    "name": "Malwina",
+    "surname": "Szylar",
+    "pesel": 808695597,
+    "address": "ul. Miarki 40, 49-831 Pruszków",
+    "phoneNumber": "+48 22 452 57 52",
+    "email": "chein@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Spółdzielnia Wiatrak Sp.j.",
+    "nip": 871101034,
+    "address": "pl. Zielona 965, 17-988 Polkowice",
+    "phoneNumber": "514 151 470",
+    "email": "sandratrzyna@example.com"
+  },
+  {
+    "type": "individual",
+    "name": "Krystyna",
+    "surname": "Śmieja",
+    "pesel": 394976505,
+    "address": "pl. Piękna 46, 29-008 Wałcz",
+    "phoneNumber": "22 422 75 02",
+    "email": "kryszkiewiczkaja@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Spółdzielnia Ratka",
+    "nip": 880472511,
+    "address": "plac Wyszyńskiego 38, 22-242 Szczecinek",
+    "phoneNumber": "+48 884 262 170",
+    "email": "lesnaoliwier@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Marcelina",
+    "surname": "Patyna",
+    "pesel": 381663274,
+    "address": "plac Kochanowskiego 370, 83-492 Ruda Śląska",
+    "phoneNumber": "+48 507 160 765",
+    "email": "ljuszczuk@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Giedrojć-Glazer i syn s.c.",
+    "nip": 374711825,
+    "address": "ul. Wiązowa 60/43, 46-758 Kielce",
+    "phoneNumber": "+48 502 161 077",
+    "email": "rafalpitek@example.org"
+  },
+  {
+    "type": "individual",
+    "name": "Maksymilian",
+    "surname": "Monkiewicz",
+    "pesel": 175451596,
+    "address": "ul. Wiązowa 56/80, 14-300 Łódź",
+    "phoneNumber": "+48 609 476 369",
+    "email": "rstrug@example.org"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Hajdas-Klepka S.A.",
+    "nip": 159251719,
+    "address": "aleja Paderewskiego 76, 11-588 Kościan",
+    "phoneNumber": "+48 506 722 222",
+    "email": "qszwiec@example.com"
+  },
+  {
+    "type": "individual",
+    "name": "Dawid",
+    "surname": "Krysik",
+    "pesel": 949532017,
+    "address": "aleja Olchowa 759, 26-145 Sanok",
+    "phoneNumber": "531 807 534",
+    "email": "marika41@example.org"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Spółdzielnia Kuczak",
+    "nip": 193747269,
+    "address": "ulica Bociania 19, 21-852 Wrocław",
+    "phoneNumber": "732 206 444",
+    "email": "ygros@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Róża",
+    "surname": "Wereda",
+    "pesel": 434309838,
+    "address": "ulica Ściegiennego 69/77, 86-452 Sieradz",
+    "phoneNumber": "22 384 11 12",
+    "email": "kornelcetera@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "PPUH Ryznar",
+    "nip": 792214236,
+    "address": "ulica Słowianska 21, 51-366 Nysa",
+    "phoneNumber": "791 663 134",
+    "email": "justyna63@example.org"
+  },
+  {
+    "type": "individual",
+    "name": "Dominik",
+    "surname": "Wenda",
+    "pesel": 237130951,
+    "address": "ulica Wyspiańskiego 975, 77-059 Kędzierzyn-Koźle",
+    "phoneNumber": "32 530 81 91",
+    "email": "ernest23@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Matula Sp.j.",
+    "nip": 751443839,
+    "address": "aleja Popiełuszki 77/79, 51-465 Elbląg",
+    "phoneNumber": "519 952 365",
+    "email": "omatulewicz@example.org"
+  },
+  {
+    "type": "individual",
+    "name": "Tymon",
+    "surname": "Sommer",
+    "pesel": 341006634,
+    "address": "aleja Turystyczna 562, 85-803 Przemyśl",
+    "phoneNumber": "+48 609 368 477",
+    "email": "ctruchel@example.org"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Kozdrój Sp. z o.o. Sp.k.",
+    "nip": 454914045,
+    "address": "ulica Turystyczna 16/03, 33-446 Giżycko",
+    "phoneNumber": "+48 736 405 650",
+    "email": "radoslawlakota@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Stefan",
+    "surname": "Malewicz",
+    "pesel": 645968604,
+    "address": "ul. Cmentarna 169, 25-057 Grudziądz",
+    "phoneNumber": "660 951 131",
+    "email": "edylong@example.org"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Gabinety Engel S.A.",
+    "nip": 806418426,
+    "address": "ul. Kowalska 14/69, 18-683 Kętrzyn",
+    "phoneNumber": "780 195 392",
+    "email": "natanjurczuk@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Julianna",
+    "surname": "Trzepizur",
+    "pesel": 363998586,
+    "address": "al. Podwale 68, 91-244 Wałcz",
+    "phoneNumber": "695 874 683",
+    "email": "anna-maria54@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Borak Sp.k.",
+    "nip": 485100939,
+    "address": "ulica Sawickiej 496, 49-869 Piotrków Trybunalski",
+    "phoneNumber": "780 715 110",
+    "email": "ogogol@example.org"
+  },
+  {
+    "type": "individual",
+    "name": "Anna Maria",
+    "surname": "Zacharek",
+    "pesel": 852482297,
+    "address": "al. Podwale 72, 93-070 Giżycko",
+    "phoneNumber": "691 426 921",
+    "email": "organisciakadrian@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Stowarzyszenie Jędrys",
+    "nip": 179865300,
+    "address": "ulica Śląska 19, 51-161 Jawor",
+    "phoneNumber": "+48 576 173 458",
+    "email": "oskartomalik@example.com"
+  },
+  {
+    "type": "individual",
+    "name": "Gabriel",
+    "surname": "Zawal",
+    "pesel": 574795945,
+    "address": "pl. Żeglarska 76/09, 66-635 Katowice",
+    "phoneNumber": "793 908 336",
+    "email": "fwestfal@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "FPUH Rezmer-Jędrusiak Sp. z o.o.",
+    "nip": 159507366,
+    "address": "aleja Witosa 47, 88-215 Nowy Dwór Mazowiecki",
+    "phoneNumber": "606 174 935",
+    "email": "bicztola@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Eliza",
+    "surname": "Tekiela",
+    "pesel": 875113053,
+    "address": "pl. Sadowa 73, 45-877 Biłgoraj",
+    "phoneNumber": "+48 663 886 114",
+    "email": "ksawerypoczatek@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Gabinety Buk-Szylar Sp. z o.o. Sp.k.",
+    "nip": 977360775,
+    "address": "aleja Szafirowa 91, 80-537 Brzeg",
+    "phoneNumber": "572 250 665",
+    "email": "genderamarcin@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Natasza",
+    "surname": "Mirga",
+    "pesel": 571051653,
+    "address": "pl. Wojska Polskiego 970, 37-151 Dąbrowa Górnicza",
+    "phoneNumber": "+48 22 442 87 08",
+    "email": "jargielomilosz@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Stowarzyszenie Drywa-Gronkiewicz Sp.j.",
+    "nip": 767351880,
+    "address": "ul. Pogodna 113, 08-606 Gdynia",
+    "phoneNumber": "+48 511 524 906",
+    "email": "ewa80@example.com"
+  },
+  {
+    "type": "individual",
+    "name": "Tadeusz",
+    "surname": "Piórek",
+    "pesel": 280825257,
+    "address": "al. Ogrodowa 33, 70-861 Piastów",
+    "phoneNumber": "+48 791 139 342",
+    "email": "mateuszmaron@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Fundacja Pielka Sp. z o.o. Sp.k.",
+    "nip": 720692132,
+    "address": "plac Matejki 81, 47-601 Pruszcz Gdański",
+    "phoneNumber": "888 207 912",
+    "email": "artur33@example.org"
+  },
+  {
+    "type": "individual",
+    "name": "Radosław",
+    "surname": "Drozda",
+    "pesel": 622003358,
+    "address": "plac Lazurowa 140, 93-795 Kętrzyn",
+    "phoneNumber": "+48 696 550 426",
+    "email": "luszczykada@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Pawliczak-Żach Sp. z o.o. Sp.k.",
+    "nip": 346101155,
+    "address": "ul. Powstańców Śląskich 43, 48-686 Przemyśl",
+    "phoneNumber": "+48 732 833 834",
+    "email": "gosikmarianna@example.com"
+  },
+  {
+    "type": "individual",
+    "name": "Ignacy",
+    "surname": "Stark",
+    "pesel": 734310006,
+    "address": "al. Dąbrowskiego 07, 84-650 Skawina",
+    "phoneNumber": "+48 505 633 922",
+    "email": "fraczewa@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Grupa Bona",
+    "nip": 805674930,
+    "address": "ul. Poznańska 87/91, 79-008 Szczecinek",
+    "phoneNumber": "695 420 879",
+    "email": "sankiewiczjanina@example.org"
+  },
+  {
+    "type": "individual",
+    "name": "Rozalia",
+    "surname": "Łapacz",
+    "pesel": 430620650,
+    "address": "pl. Szczęśliwa 26/57, 95-927 Czerwionka-Leszczyny",
+    "phoneNumber": "576 521 200",
+    "email": "gdumala@example.org"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Miśkowiec-Pleban Sp. z o.o. Sp.k.",
+    "nip": 743160389,
+    "address": "plac Nowa 39, 87-815 Oława",
+    "phoneNumber": "602 107 752",
+    "email": "skaliciak@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Elżbieta",
+    "surname": "Ekert",
+    "pesel": 600279996,
+    "address": "plac Kościelna 10/29, 78-780 Toruń",
+    "phoneNumber": "603 244 849",
+    "email": "roza21@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Sroga Sp. z o.o.",
+    "nip": 223019224,
+    "address": "al. Willowa 46, 99-447 Kraków",
+    "phoneNumber": "696 994 590",
+    "email": "sstawinoga@example.com"
+  },
+  {
+    "type": "individual",
+    "name": "Eliza",
+    "surname": "Gasik",
+    "pesel": 765662762,
+    "address": "al. Maja 415, 73-199 Płońsk",
+    "phoneNumber": "511 826 900",
+    "email": "przemyslaw42@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "PPUH Sass",
+    "nip": 335386308,
+    "address": "ulica Odrzańska 94/52, 56-082 Piastów",
+    "phoneNumber": "799 967 541",
+    "email": "andrzej11@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Józef",
+    "surname": "Marcińczyk",
+    "pesel": 249172497,
+    "address": "ulica Azaliowa 81, 37-618 Będzin",
+    "phoneNumber": "+48 696 938 491",
+    "email": "piotrgroborz@example.org"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Sadownik Sp.k.",
+    "nip": 957660699,
+    "address": "al. Lisia 520, 07-982 Skarżysko-Kamienna",
+    "phoneNumber": "32 902 98 99",
+    "email": "ignacymasny@example.net"
+  },
+  {
+    "type": "individual",
+    "name": "Sebastian",
+    "surname": "Kalka",
+    "pesel": 751132422,
+    "address": "aleja Browarna 24, 12-653 Września",
+    "phoneNumber": "+48 729 827 855",
+    "email": "fkurylowicz@example.net"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Cieniuch Sp.k.",
+    "nip": 789694499,
+    "address": "plac Witosa 117, 18-804 Słupsk",
+    "phoneNumber": "+48 720 614 296",
+    "email": "roza99@example.org"
+  },
+  {
+    "type": "individual",
+    "name": "Ksawery",
+    "surname": "Nitek",
+    "pesel": 266902719,
+    "address": "aleja Morcinka 59, 50-017 Gdynia",
+    "phoneNumber": "+48 532 862 173",
+    "email": "ambrozewiczjedrzej@example.com"
+  },
+  {
+    "type": "corporate",
+    "companyName": "Szumiło s.c.",
+    "nip": 935909774,
+    "address": "ul. Narutowicza 60, 46-961 Zgorzelec",
+    "phoneNumber": "728 797 859",
+    "email": "sylwia55@example.com"
+  }
+]

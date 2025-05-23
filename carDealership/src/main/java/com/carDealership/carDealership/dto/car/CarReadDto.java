@@ -55,13 +55,13 @@ public class CarReadDto {
     public CarReadDto(Car car) {
         this.id = car.getId();
         this.name = car.getName();
-        this.model = car.getModel().toString();
+        this.model = car.getModel();
         this.color = car.getColor();
         this.acceleration = car.getAcceleration();
-        this.transmission = car.getTransmission().toString();
+        this.transmission = car.getTransmission().getDisplayName();
         this.topSpeed = car.getTopSpeed();
         this.gasMileage = car.getGasMileage();
-        this.drivetrainType = car.getDrivetrainType().toString();
+        this.drivetrainType = car.getDrivetrainType().getDisplayName();
         this.description = car.getDescription();
         this.bodyType = car.getBodyType().toString();
         this.price = car.getPrice();

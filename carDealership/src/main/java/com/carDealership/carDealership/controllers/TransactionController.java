@@ -26,7 +26,6 @@ public class TransactionController {
 
     @PostMapping
     public ResponseEntity<TransactionReadDto> createTransaction(@RequestBody TransactionCreateDto transactionCreateDto) {
-        System.out.println("mega");
         var result = transactionService.save(transactionCreateDto);
         return result
                 .map(transactionReadDto -> new ResponseEntity<>(transactionReadDto, HttpStatus.CREATED))

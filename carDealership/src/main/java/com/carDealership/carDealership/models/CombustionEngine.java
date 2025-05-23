@@ -14,7 +14,7 @@ import lombok.Setter;
 @Setter
 public class CombustionEngine extends Engine{
 
-    @Column(name="pojmenosc")
+    @Column(name="pojemnosc")
     double displacement;
 
     @Column(name="liczba_cylindrow")

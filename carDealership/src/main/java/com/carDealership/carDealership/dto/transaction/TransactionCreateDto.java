@@ -33,7 +33,7 @@ public class TransactionCreateDto {
         Transaction transaction = new Transaction();
         transaction.setTotalAmount(this.totalAmount);
         transaction.setTransactionDate(LocalDateTime.now());
-        transaction.setPaymentMethod(PaymentMethod.valueOf(this.paymentMethod));
+        transaction.setPaymentMethod(PaymentMethod.fromDisplayName(this.paymentMethod));
         transaction.setRegistered(this.registered);
         transaction.setInsured(this.insured);
         return transaction;

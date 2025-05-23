@@ -54,13 +54,13 @@ public class CarUpdateDto {
         Car car = new Car();
         car.setId(this.id);
         car.setName(this.name);
-        car.setModel(CarModel.valueOf(this.model));
+        car.setModel(this.model);
         car.setColor(this.color);
         car.setAcceleration(this.acceleration);
-        car.setTransmission(CarTransmission.valueOf(this.transmission));
+        car.setTransmission(CarTransmission.fromDisplayName(this.transmission));
         car.setTopSpeed(this.topSpeed);
         car.setGasMileage(this.gasMileage);
-        car.setDrivetrainType(CarDrivetrainType.valueOf(this.drivetrainType));
+        car.setDrivetrainType(CarDrivetrainType.fromDisplayName(this.drivetrainType));
         car.setDescription(this.description);
         car.setBodyType(CarBodyType.valueOf(this.bodyType));
         car.setPrice(this.price);

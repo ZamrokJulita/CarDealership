@@ -1,5 +1,10 @@
 package com.carDealership.carDealership.enums;
 
 public enum CarBodyType {
-    wow
+    suv,
+    compact,
+    cabriolet,
+    combi,
+    limuzyna,
+    coupe
 }

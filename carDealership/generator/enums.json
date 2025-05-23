@@ -1,0 +1,31 @@
+{
+  "bodyType": [
+    "suv",
+    "compact",
+    "cabriolet",
+    "combi",
+    "limuzyna",
+    "coupe"
+  ],
+  "condition": [
+    "używany",
+    "nowy"
+  ],
+  "drivetrainType": [
+    "Napęd tylny",
+    "na wszystkie koła",
+    "Napęd przedni"
+  ],
+  "transmission": [
+    "7-stopniowa, automatyczna",
+    "1-stopniowa, automatyczna",
+    "8-stopniowa, automatyczna",
+    "6-biegowa skrzynia manualna"
+  ],
+  "fuelType": [
+    "elektryczny",
+    "benzyna",
+    "diesel"
+  ],
+  "paymentMethod": ["gotówka", "karta kredytowa", "przelew"]
+}

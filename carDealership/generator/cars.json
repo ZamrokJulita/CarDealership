@@ -1,0 +1,2261 @@
+[
+  {
+    "price": "492000.0",
+    "bodyType": "limuzyna",
+    "name": "BMW i5 M60 xDrive Limuzyna",
+    "imagePath": "carDealership/scraper/photos/01d8f77e7318464a8068af78f89db3ca.png",
+    "color": "Ognista czerwień metalizowany",
+    "transmission": "1-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.8,
+    "model": "i5 M60",
+    "description": "Ten pojazd elektryczny został zaprojektowany z myślą o środowisku – bez spalin, hałasu i wibracji. Wnętrze oferuje nowoczesne wykończenie i cyfrowe funkcje, które uprzyjemniają każdą podróż.",
+    "gasMileage": 16.0,
+    "vinNumber": "SNYK59JW6GZGEBHHX",
+    "productionYear": 2020,
+    "condition": "używany",
+    "mileage": 6268,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 601,
+        "fuelType": "elektryczny",
+        "capacity": 81.2
+      }
+    ]
+  },
+  {
+    "price": "335000.0",
+    "bodyType": "limuzyna",
+    "name": "BMW i5 eDrive40 Limuzyna",
+    "imagePath": "carDealership/scraper/photos/4540fa36c414459584f36d65e314b9f8.png",
+    "color": "Biel alpejska niemetalizowany",
+    "transmission": "1-stopniowa, automatyczna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 6.0,
+    "model": "i5",
+    "description": "Ten pojazd elektryczny został zaprojektowany z myślą o środowisku – bez spalin, hałasu i wibracji. Wnętrze oferuje nowoczesne wykończenie i cyfrowe funkcje, które uprzyjemniają każdą podróż.",
+    "gasMileage": 13.92,
+    "vinNumber": "NYYBYMZU0G29MUFUT",
+    "productionYear": 2024,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 340,
+        "fuelType": "elektryczny",
+        "capacity": 81.2
+      }
+    ]
+  },
+  {
+    "price": "502500.0",
+    "bodyType": "combi",
+    "name": "BMW i5 M60 xDrive Touring",
+    "imagePath": "carDealership/scraper/photos/1ad5f06973ee46d981c6aba62e116262.png",
+    "color": "Mroźny głęboki szary BMW Individual metalizowany",
+    "transmission": "1-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.9,
+    "model": "i5 M60",
+    "description": "Wyposażony w zaawansowany układ napędowy, ten model oferuje zasięg odpowiedni zarówno do jazdy miejskiej, jak i tras międzymiastowych. Elektryczne BMW gwarantuje też niskie koszty eksploatacji i dostęp do najnowszych technologii.",
+    "gasMileage": 14.19,
+    "vinNumber": "MKXNNJ94621RV0VBD",
+    "productionYear": 2024,
+    "condition": "używany",
+    "mileage": 15765,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 601,
+        "fuelType": "elektryczny",
+        "capacity": 81.2
+      }
+    ]
+  },
+  {
+    "price": "560000.0",
+    "bodyType": "suv",
+    "name": "BMW iX M70 xDrive",
+    "imagePath": "carDealership/scraper/photos/cfd9f2f4f5e84ac39f6509e90008d7cc.png",
+    "color": "Mroźny głęboki szary BMW Individual metalizowany",
+    "transmission": "1-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.8,
+    "model": "iX M70",
+    "description": "Wyposażony w zaawansowany układ napędowy, ten model oferuje zasięg odpowiedni zarówno do jazdy miejskiej, jak i tras międzymiastowych. Elektryczne BMW gwarantuje też niskie koszty eksploatacji i dostęp do najnowszych technologii.",
+    "gasMileage": 16.01,
+    "vinNumber": "WW3BXUUS8C36DZLU5",
+    "productionYear": 2020,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 659,
+        "fuelType": "elektryczny",
+        "capacity": 108.9
+      }
+    ]
+  },
+  {
+    "price": "540000.0",
+    "bodyType": "limuzyna",
+    "name": "BMW i7 eDrive50 Limuzyna",
+    "imagePath": "carDealership/scraper/photos/ae655fe4627e4330b84549c30144d7d2.png",
+    "color": "Oksydowany szary metalizowany",
+    "transmission": "1-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 4.7,
+    "model": "i7",
+    "description": "Ten samochód elektryczny łączy nowoczesny design z bezemisyjną jazdą. Dzięki cichej pracy silnika i natychmiastowej dostępności momentu obrotowego zapewnia płynne przyspieszenie oraz wysoki komfort codziennego użytkowania.",
+    "gasMileage": 15.93,
+    "vinNumber": "AJ5FWT3F44U7DG8BW",
+    "productionYear": 2023,
+    "condition": "używany",
+    "mileage": 23181,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 544,
+        "fuelType": "elektryczny",
+        "capacity": 101.7
+      }
+    ]
+  },
+  {
+    "price": "345500.0",
+    "bodyType": "combi",
+    "name": "BMW i5 eDrive40 Touring",
+    "imagePath": "carDealership/scraper/photos/f450d6d030144fd3bc01a15b3d56ce4c.png",
+    "color": "Czarny szafirowy metalizowany",
+    "transmission": "1-stopniowa, automatyczna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 6.1,
+    "model": "i5",
+    "description": "Dzięki nowoczesnym bateriom i wydajnemu systemowi odzyskiwania energii, auto sprawdza się doskonale w codziennym użytkowaniu, zapewniając jednocześnie dynamiczną jazdę bez kompromisów.",
+    "gasMileage": 13.34,
+    "vinNumber": "6RKFD4JW9B9HLT9K9",
+    "productionYear": 2022,
+    "condition": "używany",
+    "mileage": 30868,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 340,
+        "fuelType": "elektryczny",
+        "capacity": 81.2
+      }
+    ]
+  },
+  {
+    "price": "820000.0",
+    "bodyType": "limuzyna",
+    "name": "BMW i7 M70 xDrive Limuzyna",
+    "imagePath": "carDealership/scraper/photos/cc0b27c52b6a4e01ae8250262c0a2193.png",
+    "color": "Płynna miedź BMW Individual metalizowany",
+    "transmission": "1-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.7,
+    "model": "i7 M70",
+    "description": "Nowoczesna platforma elektryczna pozwala na optymalne rozmieszczenie masy i wyjątkową stabilność prowadzenia. Ładowanie może odbywać się zarówno z domowego gniazdka, jak i szybkich stacji DC, co czyni ten samochód wyjątkowo wszechstronnym.",
+    "gasMileage": 14.05,
+    "vinNumber": "S462BDFA9UU5FA844",
+    "productionYear": 2022,
+    "condition": "używany",
+    "mileage": 29718,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 659,
+        "fuelType": "elektryczny",
+        "capacity": 101.7
+      }
+    ]
+  },
+  {
+    "price": "350000.0",
+    "bodyType": "coupe",
+    "name": "BMW i4 M50 xDrive Gran Coupe",
+    "imagePath": "carDealership/scraper/photos/3d2dcf1d7d8848e6a70be688fc66ce5e.png",
+    "color": "Mroźny czysty szary metalizowany BMW Individual",
+    "transmission": "1-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.9,
+    "model": "i4 M50",
+    "description": "Dzięki nowoczesnym bateriom i wydajnemu systemowi odzyskiwania energii, auto sprawdza się doskonale w codziennym użytkowaniu, zapewniając jednocześnie dynamiczną jazdę bez kompromisów.",
+    "gasMileage": 16.0,
+    "vinNumber": "J6Z54ET97BE1LBF3E",
+    "productionYear": 2022,
+    "condition": "używany",
+    "mileage": 1856,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 544,
+        "fuelType": "elektryczny",
+        "capacity": 81.1
+      }
+    ]
+  },
+  {
+    "price": "745500.0",
+    "bodyType": "limuzyna",
+    "name": "BMW M760e xDrive Limuzyna",
+    "imagePath": "carDealership/scraper/photos/11162b272f99468080462cf83223ffaa.png",
+    "color": "Płynna miedź BMW Individual metalizowany",
+    "transmission": "1-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.7,
+    "model": "M760e",
+    "description": "Dzięki nowoczesnym bateriom i wydajnemu systemowi odzyskiwania energii, auto sprawdza się doskonale w codziennym użytkowaniu, zapewniając jednocześnie dynamiczną jazdę bez kompromisów.",
+    "gasMileage": 16.46,
+    "vinNumber": "4WAYCUAA0FJB4FZHC",
+    "productionYear": 2023,
+    "condition": "używany",
+    "mileage": 29934,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 659,
+        "fuelType": "elektryczny",
+        "capacity": 101.7
+      }
+    ]
+  },
+  {
+    "price": "273000.0",
+    "bodyType": "combi",
+    "name": "BMW 520i Touring",
+    "imagePath": "carDealership/scraper/photos/5e9d4fb4c1474391960233cd210070af.png",
+    "color": "Mroźny czysty szary BMW Individual metalizowany",
+    "transmission": "1-stopniowa, automatyczna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 6.1,
+    "model": "520i Touring",
+    "description": "Wyposażony w zaawansowany układ napędowy, ten model oferuje zasięg odpowiedni zarówno do jazdy miejskiej, jak i tras międzymiastowych. Elektryczne BMW gwarantuje też niskie koszty eksploatacji i dostęp do najnowszych technologii.",
+    "gasMileage": 16.97,
+    "vinNumber": "11VD7CZ24G4VBBBY5",
+    "productionYear": 2022,
+    "condition": "używany",
+    "mileage": 12103,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 340,
+        "fuelType": "elektryczny",
+        "capacity": 81.2
+      }
+    ]
+  },
+  {
+    "price": "288000.0",
+    "bodyType": "combi",
+    "name": "BMW 520d Touring",
+    "imagePath": "carDealership/scraper/photos/fa5cc0167a4049f4b4e793ab6ab18f5b.png",
+    "color": "Mroźny czysty szary BMW Individual metalizowany",
+    "transmission": "1-stopniowa, automatyczna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 6.1,
+    "model": "520d Touring",
+    "description": "Ten pojazd elektryczny został zaprojektowany z myślą o środowisku – bez spalin, hałasu i wibracji. Wnętrze oferuje nowoczesne wykończenie i cyfrowe funkcje, które uprzyjemniają każdą podróż.",
+    "gasMileage": 13.96,
+    "vinNumber": "SWZ1DZE559DKXMYYA",
+    "productionYear": 2023,
+    "condition": "używany",
+    "mileage": 4975,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 340,
+        "fuelType": "elektryczny",
+        "capacity": 81.2
+      }
+    ]
+  },
+  {
+    "price": "277500.0",
+    "bodyType": "limuzyna",
+    "name": "BMW 520d Limuzyna",
+    "imagePath": "carDealership/scraper/photos/9db0ae9e23494c4bbcc3f78aa3efa19b.png",
+    "color": "Szafirowoczarny metalizowany",
+    "transmission": "1-stopniowa, automatyczna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 6.0,
+    "model": "520d Limuzyna",
+    "description": "Dzięki nowoczesnym bateriom i wydajnemu systemowi odzyskiwania energii, auto sprawdza się doskonale w codziennym użytkowaniu, zapewniając jednocześnie dynamiczną jazdę bez kompromisów.",
+    "gasMileage": 14.07,
+    "vinNumber": "BADCYY7W1PV487MUZ",
+    "productionYear": 2020,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 340,
+        "fuelType": "elektryczny",
+        "capacity": 81.2
+      }
+    ]
+  },
+  {
+    "price": "261500.0",
+    "bodyType": "combi",
+    "name": "BMW 330e Touring",
+    "imagePath": "carDealership/scraper/photos/1668f7c59f244230873fb3a3f44c8911.png",
+    "color": "Szary Drawit metalizowany BMW Individual",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.5,
+    "topSpeed": "300",
+    "model": "330e Touring",
+    "description": "Dzięki dopracowanej technologii i niskiej emisji, nowoczesne silniki BMW spełniają rygorystyczne normy środowiskowe, jednocześnie oferując wysoką kulturę pracy i oszczędność paliwa.",
+    "gasMileage": 9.65,
+    "vinNumber": "X5W58SZY367T2YX1Z",
+    "productionYear": 2025,
+    "condition": "używany",
+    "mileage": 21922,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 551,
+        "fuelType": "benzyna",
+        "displacement": 2993,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "283000.0",
+    "bodyType": "suv",
+    "name": "BMW X2 M35i xDrive",
+    "imagePath": "carDealership/scraper/photos/a0cbbccfcfc7453e86d0867d24f6e904.png",
+    "color": "Mroźny niebieski Portimao",
+    "transmission": "7-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 5.4,
+    "topSpeed": "250",
+    "model": "X2 M35i",
+    "description": "Silnik spalinowy oferuje naturalną responsywność i pełne osiągi bez konieczności ładowania. Pojazd świetnie sprawdza się w warunkach autostradowych oraz podczas intensywnej jazdy poza miastem.",
+    "gasMileage": 9.35,
+    "vinNumber": "LVWF0L664EX7PETYR",
+    "productionYear": 2020,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 300,
+        "fuelType": "diesel",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "274000.0",
+    "bodyType": "suv",
+    "name": "BMW X1 M35i xDrive",
+    "imagePath": "carDealership/scraper/photos/ab2830f6d3c74af2a06aa689bea81624.png",
+    "color": "Frozen Pure Grey metalizowany BMW Individual",
+    "transmission": "7-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 5.4,
+    "topSpeed": "250",
+    "model": "X1 M35i",
+    "description": "Samochód z klasycznym napędem spalinowym zapewnia długie zasięgi, szybkie tankowanie i szeroki zakres dostępnych mocy. To sprawdzony wybór dla osób podróżujących często i na dalekich dystansach.",
+    "gasMileage": 8.22,
+    "vinNumber": "P0F93KGU5T432D7ZG",
+    "productionYear": 2023,
+    "condition": "używany",
+    "mileage": 28,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 300,
+        "fuelType": "benzyna",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "618500.0",
+    "bodyType": "coupe",
+    "name": "BMW M850i xDrive Gran Coupe",
+    "imagePath": "carDealership/scraper/photos/1f14d1e434a34344a7dbb944bcefe0a8.png",
+    "color": "Zielony San Remo, metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 5.4,
+    "topSpeed": "250",
+    "model": "M850i",
+    "description": "Dzięki dopracowanej technologii i niskiej emisji, nowoczesne silniki BMW spełniają rygorystyczne normy środowiskowe, jednocześnie oferując wysoką kulturę pracy i oszczędność paliwa.",
+    "gasMileage": 6.89,
+    "vinNumber": "ULPKAX6K0Z76WAL6L",
+    "productionYear": 2022,
+    "condition": "używany",
+    "mileage": 36669,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 333,
+        "fuelType": "benzyna",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "780000.0",
+    "bodyType": "coupe",
+    "name": "BMW M8 Gran Coupe",
+    "imagePath": "carDealership/scraper/photos/2f446d1cec5441bf9a2d5d2ac100c968.png",
+    "color": "Biel alpejska niemetalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.9,
+    "topSpeed": "250",
+    "model": "M8 Gran Coupe",
+    "description": "Dzięki dopracowanej technologii i niskiej emisji, nowoczesne silniki BMW spełniają rygorystyczne normy środowiskowe, jednocześnie oferując wysoką kulturę pracy i oszczędność paliwa.",
+    "gasMileage": 9.89,
+    "vinNumber": "FN8S060M84YUEDZTS",
+    "productionYear": 2021,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 530,
+        "fuelType": "diesel",
+        "displacement": 4395,
+        "cylindersNumber": "8"
+      }
+    ]
+  },
+  {
+    "price": "532000.0",
+    "bodyType": "cabriolet",
+    "name": "BMW 840i Cabrio",
+    "imagePath": "carDealership/scraper/photos/504d020aa6a942d2b3927c557fc523f3.png",
+    "color": "Biel mineralna metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 5.5,
+    "topSpeed": "250",
+    "model": "840i Cabrio",
+    "description": "Samochód z klasycznym napędem spalinowym zapewnia długie zasięgi, szybkie tankowanie i szeroki zakres dostępnych mocy. To sprawdzony wybór dla osób podróżujących często i na dalekich dystansach.",
+    "gasMileage": 9.3,
+    "vinNumber": "EMKUJ0U54R4A2R7L1",
+    "productionYear": 2024,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 333,
+        "fuelType": "benzyna",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "672000.0",
+    "bodyType": "cabriolet",
+    "name": "BMW M850i xDrive Cabrio",
+    "imagePath": "carDealership/scraper/photos/673055021e7a4b479270bf7b341f9f45.png",
+    "color": "Biel alpejska niemetalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 4.1,
+    "topSpeed": "250",
+    "model": "M850i",
+    "description": "Samochód z klasycznym napędem spalinowym zapewnia długie zasięgi, szybkie tankowanie i szeroki zakres dostępnych mocy. To sprawdzony wybór dla osób podróżujących często i na dalekich dystansach.",
+    "gasMileage": 6.63,
+    "vinNumber": "2S7RHGAP5VVK8UJL6",
+    "productionYear": 2020,
+    "condition": "używany",
+    "mileage": 36003,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 530,
+        "fuelType": "diesel",
+        "displacement": 4395,
+        "cylindersNumber": "8"
+      }
+    ]
+  },
+  {
+    "price": "834000.0",
+    "bodyType": "cabriolet",
+    "name": "BMW M8 Cabrio",
+    "imagePath": "carDealership/scraper/photos/aed9d5e576c248818ade1f645f28416d.png",
+    "color": "Biel alpejska niemetalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 4.1,
+    "topSpeed": "250",
+    "model": "M8 Cabrio",
+    "description": "Dzięki dopracowanej technologii i niskiej emisji, nowoczesne silniki BMW spełniają rygorystyczne normy środowiskowe, jednocześnie oferując wysoką kulturę pracy i oszczędność paliwa.",
+    "gasMileage": 9.68,
+    "vinNumber": "2P9WSTBS0604YD7R6",
+    "productionYear": 2020,
+    "condition": "używany",
+    "mileage": 7780,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 530,
+        "fuelType": "diesel",
+        "displacement": 4395,
+        "cylindersNumber": "8"
+      }
+    ]
+  },
+  {
+    "price": "633500.0",
+    "bodyType": "coupe",
+    "name": "BMW M850i xDrive Coupe",
+    "imagePath": "carDealership/scraper/photos/ad68bcbe47ce4bd69b0e278ae32153b0.png",
+    "color": "Biel alpejska niemetalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.9,
+    "topSpeed": "250",
+    "model": "M850i",
+    "description": "Samochód z klasycznym napędem spalinowym zapewnia długie zasięgi, szybkie tankowanie i szeroki zakres dostępnych mocy. To sprawdzony wybór dla osób podróżujących często i na dalekich dystansach.",
+    "gasMileage": 5.7,
+    "vinNumber": "WKR4NH1K0HLTH8T5T",
+    "productionYear": 2020,
+    "condition": "używany",
+    "mileage": 23786,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 530,
+        "fuelType": "diesel",
+        "displacement": 4395,
+        "cylindersNumber": "8"
+      }
+    ]
+  },
+  {
+    "price": "478000.0",
+    "bodyType": "coupe",
+    "name": "BMW 840i Gran Coupe",
+    "imagePath": "carDealership/scraper/photos/123439987f6045ce96ad2e0079ea01c9.png",
+    "color": "Zielony San Remo, metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 5.4,
+    "topSpeed": "250",
+    "model": "840i Gran Coupe",
+    "description": "Silniki benzynowe BMW oferują dynamiczną jazdę, precyzyjną reakcję na gaz i szeroki wybór mocy. W połączeniu z zaawansowaną skrzynią biegów tworzą układ napędowy o sportowym charakterze.",
+    "gasMileage": 5.62,
+    "vinNumber": "2EDGCGZ81SG0GBV6G",
+    "productionYear": 2022,
+    "condition": "używany",
+    "mileage": 20708,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 333,
+        "fuelType": "diesel",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "230500.0",
+    "bodyType": "cabriolet",
+    "name": "BMW 420i Cabrio",
+    "imagePath": "carDealership/scraper/photos/0fbb40599fdb42559fba99c001108f5a.png",
+    "color": "Biel alpejska niemetalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 8.2,
+    "topSpeed": "236",
+    "model": "420i Cabrio",
+    "description": "Samochód z klasycznym napędem spalinowym zapewnia długie zasięgi, szybkie tankowanie i szeroki zakres dostępnych mocy. To sprawdzony wybór dla osób podróżujących często i na dalekich dystansach.",
+    "gasMileage": 6.37,
+    "vinNumber": "ML0VC2HX8RMDR9PHZ",
+    "productionYear": 2021,
+    "condition": "używany",
+    "mileage": 10587,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 184,
+        "fuelType": "benzyna",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "462500.0",
+    "bodyType": "coupe",
+    "name": "BMW M4 Coupe",
+    "imagePath": "carDealership/scraper/photos/979912473d0048229194e1d0d9cd1cd2.png",
+    "color": "Niebieski Riviera BMW Individual",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.4,
+    "topSpeed": "302",
+    "model": "M4 Coupe",
+    "description": "Dzięki dopracowanej technologii i niskiej emisji, nowoczesne silniki BMW spełniają rygorystyczne normy środowiskowe, jednocześnie oferując wysoką kulturę pracy i oszczędność paliwa.",
+    "gasMileage": 7.01,
+    "vinNumber": "36MN2WM10WP8J2HK3",
+    "productionYear": 2021,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 551,
+        "fuelType": "diesel",
+        "displacement": 2993,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "230500.0",
+    "bodyType": "coupe",
+    "name": "BMW 430i xDrive Gran Coupe",
+    "imagePath": "carDealership/scraper/photos/af3a35a5754544948ded5d2c25f03be3.png",
+    "color": "Szary Skyscraper metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 7.9,
+    "topSpeed": "235",
+    "model": "430i",
+    "description": "Silniki benzynowe BMW oferują dynamiczną jazdę, precyzyjną reakcję na gaz i szeroki wybór mocy. W połączeniu z zaawansowaną skrzynią biegów tworzą układ napędowy o sportowym charakterze.",
+    "gasMileage": 7.24,
+    "vinNumber": "6HA29DZV6SETJ7ASX",
+    "productionYear": 2025,
+    "condition": "używany",
+    "mileage": 21769,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 184,
+        "fuelType": "diesel",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "192500.0",
+    "bodyType": "limuzyna",
+    "name": "BMW 318i Limuzyna",
+    "imagePath": "carDealership/scraper/photos/34bf902c37374e1c937aed7bcd008ee1.png",
+    "color": "Niebieski Arctic Race metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 5.9,
+    "topSpeed": "250",
+    "model": "318i Limuzyna",
+    "description": "Dzięki dopracowanej technologii i niskiej emisji, nowoczesne silniki BMW spełniają rygorystyczne normy środowiskowe, jednocześnie oferując wysoką kulturę pracy i oszczędność paliwa.",
+    "gasMileage": 9.95,
+    "vinNumber": "51S2V33M6R8G5LENT",
+    "productionYear": 2021,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 245,
+        "fuelType": "benzyna",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "452500.0",
+    "bodyType": "limuzyna",
+    "name": "BMW M3 Limuzyna",
+    "imagePath": "carDealership/scraper/photos/657cf3e66b59456fa7e139ab5e642cd1.png",
+    "color": "Mroźny zielony Tampa Bay BMW Individual",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.5,
+    "topSpeed": "250",
+    "model": "M3 Limuzyna",
+    "description": "Silnik spalinowy oferuje naturalną responsywność i pełne osiągi bez konieczności ładowania. Pojazd świetnie sprawdza się w warunkach autostradowych oraz podczas intensywnej jazdy poza miastem.",
+    "gasMileage": 7.82,
+    "vinNumber": "SE3WPK9R8HMNM5K14",
+    "productionYear": 2021,
+    "condition": "używany",
+    "mileage": 408,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 530,
+        "fuelType": "benzyna",
+        "displacement": 2993,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "199000.0",
+    "bodyType": "combi",
+    "name": "BMW 330i xDrive Touring",
+    "imagePath": "carDealership/scraper/photos/5e97a69479974b0a8bb396b487ec6c95.png",
+    "color": "Szary Skyscraper metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 6.0,
+    "topSpeed": "250",
+    "model": "330i",
+    "description": "Dzięki dopracowanej technologii i niskiej emisji, nowoczesne silniki BMW spełniają rygorystyczne normy środowiskowe, jednocześnie oferując wysoką kulturę pracy i oszczędność paliwa.",
+    "gasMileage": 8.56,
+    "vinNumber": "C1E2N2U093VBHRM5Z",
+    "productionYear": 2023,
+    "condition": "używany",
+    "mileage": 27764,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 245,
+        "fuelType": "diesel",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "327500.0",
+    "bodyType": "limuzyna",
+    "name": "BMW M340i xDrive Limuzyna",
+    "imagePath": "carDealership/scraper/photos/2096a24422cb479e9b7e5ad31777e0e3.png",
+    "color": "Mroźny zielony Tampa Bay BMW Individual",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.5,
+    "topSpeed": "250",
+    "model": "M340i",
+    "description": "Dzięki dopracowanej technologii i niskiej emisji, nowoczesne silniki BMW spełniają rygorystyczne normy środowiskowe, jednocześnie oferując wysoką kulturę pracy i oszczędność paliwa.",
+    "gasMileage": 6.91,
+    "vinNumber": "VFR3RXZ966L2UPGDH",
+    "productionYear": 2020,
+    "condition": "używany",
+    "mileage": 10801,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 530,
+        "fuelType": "benzyna",
+        "displacement": 2993,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "740000.0",
+    "bodyType": "combi",
+    "name": "BMW M3 CS Touring",
+    "imagePath": "carDealership/scraper/photos/f792782c9a3a46cd83629b2d747f5653.png",
+    "color": "Zielony niemetalizowany BMW Individual British Racing",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.6,
+    "topSpeed": "250",
+    "model": "M3 CS Touring",
+    "description": "Wersje wysokoprężne to idealny wybór dla kierowców pokonujących długie trasy – zapewniają wysoki moment obrotowy i niskie spalanie, szczególnie przy jeździe w trasie.",
+    "gasMileage": 7.64,
+    "vinNumber": "4CHYA2ZJ3M9H33359",
+    "productionYear": 2024,
+    "condition": "używany",
+    "mileage": 29267,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 530,
+        "fuelType": "diesel",
+        "displacement": 2993,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "334000.0",
+    "bodyType": "combi",
+    "name": "BMW M340i xDrive Touring",
+    "imagePath": "carDealership/scraper/photos/b887019d4ac845de82c9ecac4166c2e2.png",
+    "color": "Zielony niemetalizowany BMW Individual British Racing",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.6,
+    "topSpeed": "250",
+    "model": "M340i",
+    "description": "Samochód z klasycznym napędem spalinowym zapewnia długie zasięgi, szybkie tankowanie i szeroki zakres dostępnych mocy. To sprawdzony wybór dla osób podróżujących często i na dalekich dystansach.",
+    "gasMileage": 6.09,
+    "vinNumber": "BVT3FHTK9VGRA00CJ",
+    "productionYear": 2025,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 530,
+        "fuelType": "benzyna",
+        "displacement": 2993,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "512500.0",
+    "bodyType": "combi",
+    "name": "BMW M3 Competition M xDrive Touring",
+    "imagePath": "carDealership/scraper/photos/147e0ab3861b4075a5957136d145c034.png",
+    "color": "Zielony niemetalizowany BMW Individual British Racing",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.6,
+    "topSpeed": "250",
+    "model": "M3 Competition M",
+    "description": "Dzięki dopracowanej technologii i niskiej emisji, nowoczesne silniki BMW spełniają rygorystyczne normy środowiskowe, jednocześnie oferując wysoką kulturę pracy i oszczędność paliwa.",
+    "gasMileage": 5.64,
+    "vinNumber": "39ZPH78U1WSNYC280",
+    "productionYear": 2023,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 530,
+        "fuelType": "benzyna",
+        "displacement": 2993,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "250000.0",
+    "bodyType": "coupe",
+    "name": "BMW M235 xDrive Gran Coupe",
+    "imagePath": "carDealership/scraper/photos/af5e3d92d6114ce2a2ac8febc452be59.png",
+    "color": "Szary M Brooklyn metalizowany",
+    "transmission": "7-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 4.9,
+    "topSpeed": "250",
+    "model": "M235",
+    "description": "Silnik spalinowy oferuje naturalną responsywność i pełne osiągi bez konieczności ładowania. Pojazd świetnie sprawdza się w warunkach autostradowych oraz podczas intensywnej jazdy poza miastem.",
+    "gasMileage": 6.36,
+    "vinNumber": "RGN4NPCT1YTPEJXD3",
+    "productionYear": 2022,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 300,
+        "fuelType": "diesel",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "235000.0",
+    "bodyType": "compact",
+    "name": "BMW M135 xDrive",
+    "imagePath": "carDealership/scraper/photos/11e129e27c69451db47b9bf8883934ba.png",
+    "color": "Biel alpejska niemetalizowany",
+    "transmission": "7-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 4.9,
+    "topSpeed": "250",
+    "model": "M135",
+    "description": "Dzięki dopracowanej technologii i niskiej emisji, nowoczesne silniki BMW spełniają rygorystyczne normy środowiskowe, jednocześnie oferując wysoką kulturę pracy i oszczędność paliwa.",
+    "gasMileage": 7.16,
+    "vinNumber": "UUFLXFB95WRG4EY6M",
+    "productionYear": 2025,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 300,
+        "fuelType": "benzyna",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "367500.0",
+    "bodyType": "coupe",
+    "name": "BMW M2 Coupe",
+    "imagePath": "carDealership/scraper/photos/a829dc3553074ac28a5d7b41b45d7ad1.png",
+    "color": "Szary M Brooklyn metalizowany",
+    "transmission": "6-biegowa skrzynia manualna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 4.2,
+    "topSpeed": "250",
+    "model": "M2 Coupe",
+    "description": "Samochód z klasycznym napędem spalinowym zapewnia długie zasięgi, szybkie tankowanie i szeroki zakres dostępnych mocy. To sprawdzony wybór dla osób podróżujących często i na dalekich dystansach.",
+    "gasMileage": 5.76,
+    "vinNumber": "HC6V4VN83RAYD3VTR",
+    "productionYear": 2023,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 480,
+        "fuelType": "diesel",
+        "displacement": 2993,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "247500.0",
+    "bodyType": "cabriolet",
+    "name": "BMW Z4 sDrive20i",
+    "imagePath": "carDealership/scraper/photos/5e826c7d0f0d47d4a3737ff4b5630c56.png",
+    "color": "Thundernight metalizowany",
+    "transmission": "6-biegowa skrzynia manualna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 6.8,
+    "topSpeed": "241",
+    "model": "Z4",
+    "description": "Silnik spalinowy oferuje naturalną responsywność i pełne osiągi bez konieczności ładowania. Pojazd świetnie sprawdza się w warunkach autostradowych oraz podczas intensywnej jazdy poza miastem.",
+    "gasMileage": 8.61,
+    "vinNumber": "WW3YNRJD8GBZ064YV",
+    "productionYear": 2023,
+    "condition": "używany",
+    "mileage": 16569,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 197,
+        "fuelType": "diesel",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "557500.0",
+    "bodyType": "cabriolet",
+    "name": "BMW 840d xDrive Cabrio",
+    "imagePath": "carDealership/scraper/photos/1370292aefc140899010fa22d7421ab8.png",
+    "color": "Biel mineralna metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 5.5,
+    "topSpeed": "250",
+    "model": "840d",
+    "description": "Silniki benzynowe BMW oferują dynamiczną jazdę, precyzyjną reakcję na gaz i szeroki wybór mocy. W połączeniu z zaawansowaną skrzynią biegów tworzą układ napędowy o sportowym charakterze.",
+    "gasMileage": 8.2,
+    "vinNumber": "3MV73LJ69STFHPL9V",
+    "productionYear": 2023,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 333,
+        "fuelType": "diesel",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "245500.0",
+    "bodyType": "coupe",
+    "name": "BMW 420d Gran Coupe",
+    "imagePath": "carDealership/scraper/photos/6847fb6030864f2c8ba5cea3586807f8.png",
+    "color": "Szary Skyscraper metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 7.9,
+    "topSpeed": "235",
+    "model": "420d Gran Coupe",
+    "description": "Wersje wysokoprężne to idealny wybór dla kierowców pokonujących długie trasy – zapewniają wysoki moment obrotowy i niskie spalanie, szczególnie przy jeździe w trasie.",
+    "gasMileage": 9.55,
+    "vinNumber": "PD2J8324XSGYDYRL7",
+    "productionYear": 2020,
+    "condition": "używany",
+    "mileage": 12255,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 184,
+        "fuelType": "benzyna",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "280500.0",
+    "bodyType": "cabriolet",
+    "name": "BMW 420d Cabrio",
+    "imagePath": "carDealership/scraper/photos/8126edf3388e426d928e3d5d5aa2abdf.png",
+    "color": "Biel alpejska niemetalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 8.2,
+    "topSpeed": "236",
+    "model": "420d Cabrio",
+    "description": "Wersje wysokoprężne to idealny wybór dla kierowców pokonujących długie trasy – zapewniają wysoki moment obrotowy i niskie spalanie, szczególnie przy jeździe w trasie.",
+    "gasMileage": 9.58,
+    "vinNumber": "EM85PYGGXB48NF5XN",
+    "productionYear": 2024,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 184,
+        "fuelType": "diesel",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "214000.0",
+    "bodyType": "combi",
+    "name": "BMW 318d Touring",
+    "imagePath": "carDealership/scraper/photos/46b6aff4380d4048ada9fce7c2793707.png",
+    "color": "Szary Skyscraper metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 6.0,
+    "topSpeed": "250",
+    "model": "318d Touring",
+    "description": "Silnik spalinowy oferuje naturalną responsywność i pełne osiągi bez konieczności ładowania. Pojazd świetnie sprawdza się w warunkach autostradowych oraz podczas intensywnej jazdy poza miastem.",
+    "gasMileage": 9.26,
+    "vinNumber": "1KDUDNDL213FSY90W",
+    "productionYear": 2024,
+    "condition": "używany",
+    "mileage": 3939,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 245,
+        "fuelType": "diesel",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "334000.0",
+    "bodyType": "combi",
+    "name": "BMW M340d xDrive Touring",
+    "imagePath": "carDealership/scraper/photos/5531e0e90151442381dca421cbb2597d.png",
+    "color": "Zielony niemetalizowany BMW Individual British Racing",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.6,
+    "topSpeed": "250",
+    "model": "M340d",
+    "description": "Samochód z klasycznym napędem spalinowym zapewnia długie zasięgi, szybkie tankowanie i szeroki zakres dostępnych mocy. To sprawdzony wybór dla osób podróżujących często i na dalekich dystansach.",
+    "gasMileage": 7.03,
+    "vinNumber": "VJMJ2NJE12R89DSD3",
+    "productionYear": 2023,
+    "condition": "używany",
+    "mileage": 11973,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 530,
+        "fuelType": "diesel",
+        "displacement": 2993,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "207500.0",
+    "bodyType": "limuzyna",
+    "name": "BMW 318d Limuzyna",
+    "imagePath": "carDealership/scraper/photos/d2a3594719164e6385cac74b7db9cfb9.png",
+    "color": "Niebieski Arctic Race metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 5.9,
+    "topSpeed": "250",
+    "model": "318d Limuzyna",
+    "description": "Dzięki dopracowanej technologii i niskiej emisji, nowoczesne silniki BMW spełniają rygorystyczne normy środowiskowe, jednocześnie oferując wysoką kulturę pracy i oszczędność paliwa.",
+    "gasMileage": 7.56,
+    "vinNumber": "RK5KZ1DWXAGYANZP4",
+    "productionYear": 2024,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 245,
+        "fuelType": "benzyna",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "327500.0",
+    "bodyType": "limuzyna",
+    "name": "BMW M340d xDrive Limuzyna",
+    "imagePath": "carDealership/scraper/photos/47aad1adaddd468190d54024c7a60ecf.png",
+    "color": "Mroźny zielony Tampa Bay BMW Individual",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.5,
+    "topSpeed": "250",
+    "model": "M340d",
+    "description": "Silnik spalinowy oferuje naturalną responsywność i pełne osiągi bez konieczności ładowania. Pojazd świetnie sprawdza się w warunkach autostradowych oraz podczas intensywnej jazdy poza miastem.",
+    "gasMileage": 9.91,
+    "vinNumber": "CP3D3XK533A8XKDB7",
+    "productionYear": 2024,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "combustion",
+        "power": 530,
+        "fuelType": "diesel",
+        "displacement": 2993,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "285000.0",
+    "bodyType": "suv",
+    "name": "BMW X3 30e xDrive",
+    "imagePath": "carDealership/scraper/photos/1c929b19fec34d60824b3b9765933f88.png",
+    "color": "Czarny szafirowy metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 6.2,
+    "topSpeed": "215",
+    "model": "X3 30e",
+    "description": "Dzięki możliwości jazdy w trybie czysto elektrycznym na krótkich dystansach, ten model pozwala ograniczyć zużycie paliwa i emisję CO₂. Przełączenie na tryb hybrydowy odbywa się płynnie i automatycznie.",
+    "gasMileage": 5.21,
+    "vinNumber": "10W6Y3V68Y6W3D455",
+    "productionYear": 2022,
+    "condition": "używany",
+    "mileage": 14980,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 299,
+        "fuelType": "elektryczny",
+        "capacity": 19.7
+      },
+      {
+        "type": "combustion",
+        "power": 299,
+        "fuelType": "diesel",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "318000.0",
+    "bodyType": "combi",
+    "name": "BMW 530e Touring",
+    "imagePath": "carDealership/scraper/photos/d45111faeb644158852c117b00b9b0ea.png",
+    "color": "Biel alpejska niemetalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "Napęd tylny",
+    "acceleration": 6.4,
+    "topSpeed": "220",
+    "model": "530e Touring",
+    "description": "BMW z napędem hybrydowym oferuje elastyczność użytkowania – ładowanie z gniazdka lub stacji publicznej oraz możliwość korzystania z silnika spalinowego na dłuższych trasach bez stresu o zasięg.",
+    "gasMileage": 5.1,
+    "vinNumber": "YNX8R78G8LAF1WFW1",
+    "productionYear": 2023,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 299,
+        "fuelType": "elektryczny",
+        "capacity": 19.4
+      },
+      {
+        "type": "combustion",
+        "power": 299,
+        "fuelType": "diesel",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "655500.0",
+    "bodyType": "limuzyna",
+    "name": "BMW 750e xDrive Limuzyna",
+    "imagePath": "carDealership/scraper/photos/815275178c354a469c0158900fe04e9d.png",
+    "color": "Mroźny głęboki szary BMW Individual metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 5.8,
+    "topSpeed": "250",
+    "model": "750e",
+    "description": "Ten samochód hybrydowy to propozycja dla kierowców, którzy chcą zmniejszyć swój ślad węglowy bez rezygnacji z tradycyjnej dynamiki i zasięgu. Zintegrowane systemy wspomagające dbają o optymalną efektywność jazdy.",
+    "gasMileage": 3.12,
+    "vinNumber": "PFUUW45Y1VYD2A3UT",
+    "productionYear": 2024,
+    "condition": "używany",
+    "mileage": 9800,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 299,
+        "fuelType": "elektryczny",
+        "capacity": 0.9
+      },
+      {
+        "type": "combustion",
+        "power": 299,
+        "fuelType": "diesel",
+        "displacement": 2993,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "234500.0",
+    "bodyType": "suv",
+    "name": "BMW X1 xDrive30e",
+    "imagePath": "carDealership/scraper/photos/eae6d61541684b34abe4e7d6c1f78358.png",
+    "color": "Pomarańczowy Utah metalizowany",
+    "transmission": "7-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 7.1,
+    "topSpeed": "233",
+    "model": "X1",
+    "description": "Samochód hybrydowy łączy moc silnika spalinowego z efektywnością napędu elektrycznego, zapewniając cichą jazdę w mieście i dynamiczne osiągi na trasie. Idealny kompromis między ekologią a zasięgiem.",
+    "gasMileage": 5.33,
+    "vinNumber": "G1URZVSD2HC0VU75B",
+    "productionYear": 2021,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 218,
+        "fuelType": "elektryczny",
+        "capacity": 0.9
+      },
+      {
+        "type": "combustion",
+        "power": 218,
+        "fuelType": "benzyna",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "255000.0",
+    "bodyType": "limuzyna",
+    "name": "BMW 330e Limuzyna",
+    "imagePath": "carDealership/scraper/photos/6dc8e8918b9f48929d62e4263f9beb78.png",
+    "color": "Niebieski Arctic Race metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 5.9,
+    "topSpeed": "230",
+    "model": "330e Limuzyna",
+    "description": "Ten samochód hybrydowy to propozycja dla kierowców, którzy chcą zmniejszyć swój ślad węglowy bez rezygnacji z tradycyjnej dynamiki i zasięgu. Zintegrowane systemy wspomagające dbają o optymalną efektywność jazdy.",
+    "gasMileage": 3.59,
+    "vinNumber": "GRKJUUGUX750XLRPS",
+    "productionYear": 2023,
+    "condition": "używany",
+    "mileage": 1944,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 292,
+        "fuelType": "elektryczny",
+        "capacity": 19.5
+      },
+      {
+        "type": "combustion",
+        "power": 292,
+        "fuelType": "diesel",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "215500.0",
+    "bodyType": "combi",
+    "name": "BMW 225e xDrive Active Tourer",
+    "imagePath": "carDealership/scraper/photos/0d32b5d4f3db457bafa11853db51bddb.png",
+    "color": "Połyskujący miedziany szary, metalizowany",
+    "transmission": "7-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 6.7,
+    "topSpeed": "195",
+    "model": "225e",
+    "description": "Zaawansowany system zarządzania energią pozwala inteligentnie wykorzystać oba źródła napędu. W połączeniu z typową dla BMW precyzją prowadzenia, auto oferuje komfort i oszczędność.",
+    "gasMileage": 4.11,
+    "vinNumber": "83YKGPPH8UGZYVE6T",
+    "productionYear": 2024,
+    "condition": "używany",
+    "mileage": 36206,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 245,
+        "fuelType": "elektryczny",
+        "capacity": 14.2
+      },
+      {
+        "type": "combustion",
+        "power": 245,
+        "fuelType": "benzyna",
+        "displacement": 1499,
+        "cylindersNumber": "3"
+      }
+    ]
+  },
+  {
+    "price": "517500.0",
+    "bodyType": "suv",
+    "name": "BMW X7 xDrive40i",
+    "imagePath": "carDealership/scraper/photos/1cdddea390574c8891efbe2f3412b8ef.png",
+    "color": "Połyskujący miedziany szary metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 5.8,
+    "topSpeed": "250",
+    "model": "X7",
+    "description": "Zaawansowany system zarządzania energią pozwala inteligentnie wykorzystać oba źródła napędu. W połączeniu z typową dla BMW precyzją prowadzenia, auto oferuje komfort i oszczędność.",
+    "gasMileage": 3.84,
+    "vinNumber": "6N6L5M7H6MRR7CL6Y",
+    "productionYear": 2024,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 381,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 381,
+        "fuelType": "diesel",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "452500.0",
+    "bodyType": "suv",
+    "name": "BMW X6 xDrive40i",
+    "imagePath": "carDealership/scraper/photos/9eb02c467ff847a291fbd171af8f13a0.png",
+    "color": "Szary drawit BMW Individual metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 5.4,
+    "topSpeed": "250",
+    "model": "X6",
+    "description": "BMW z napędem hybrydowym oferuje elastyczność użytkowania – ładowanie z gniazdka lub stacji publicznej oraz możliwość korzystania z silnika spalinowego na dłuższych trasach bez stresu o zasięg.",
+    "gasMileage": 3.7,
+    "vinNumber": "K7HBKHEC1S9JBHASN",
+    "productionYear": 2022,
+    "condition": "używany",
+    "mileage": 9007,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 381,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 381,
+        "fuelType": "diesel",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "422500.0",
+    "bodyType": "suv",
+    "name": "BMW X5 xDrive40i",
+    "imagePath": "carDealership/scraper/photos/412a02e9b36f43d39589e6550460f832.png",
+    "color": "M Carbon Black metallic",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 5.4,
+    "topSpeed": "250",
+    "model": "X5",
+    "description": "Ten samochód hybrydowy to propozycja dla kierowców, którzy chcą zmniejszyć swój ślad węglowy bez rezygnacji z tradycyjnej dynamiki i zasięgu. Zintegrowane systemy wspomagające dbają o optymalną efektywność jazdy.",
+    "gasMileage": 5.31,
+    "vinNumber": "JYSKSTWC21ADC255J",
+    "productionYear": 2025,
+    "condition": "używany",
+    "mileage": 1027,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 381,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 381,
+        "fuelType": "diesel",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "757500.0",
+    "bodyType": "suv",
+    "name": "BMW X6 M Competition",
+    "imagePath": "carDealership/scraper/photos/ad5e5ab2977f4215a6b7c148b5d5af16.png",
+    "color": "Mroźny czysty szary BMW Individual metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 4.3,
+    "topSpeed": "250",
+    "model": "X6 M Competition",
+    "description": "Ten samochód hybrydowy to propozycja dla kierowców, którzy chcą zmniejszyć swój ślad węglowy bez rezygnacji z tradycyjnej dynamiki i zasięgu. Zintegrowane systemy wspomagające dbają o optymalną efektywność jazdy.",
+    "gasMileage": 3.25,
+    "vinNumber": "4V90KUC51FS8RCUWK",
+    "productionYear": 2020,
+    "condition": "używany",
+    "mileage": 20080,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 530,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 530,
+        "fuelType": "benzyna",
+        "displacement": 4395,
+        "cylindersNumber": "8"
+      }
+    ]
+  },
+  {
+    "price": "727500.0",
+    "bodyType": "suv",
+    "name": "BMW X5 M Competition",
+    "imagePath": "carDealership/scraper/photos/b76ebfa8888641ce8691f7fff0b50609.png",
+    "color": "Zielony M Isle of Man metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 3.9,
+    "topSpeed": "250",
+    "model": "X5 M Competition",
+    "description": "Dzięki możliwości jazdy w trybie czysto elektrycznym na krótkich dystansach, ten model pozwala ograniczyć zużycie paliwa i emisję CO₂. Przełączenie na tryb hybrydowy odbywa się płynnie i automatycznie.",
+    "gasMileage": 3.76,
+    "vinNumber": "CPHWGAM876RLFPB5A",
+    "productionYear": 2023,
+    "condition": "używany",
+    "mileage": 31723,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 625,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 625,
+        "fuelType": "diesel",
+        "displacement": 4395,
+        "cylindersNumber": "8"
+      }
+    ]
+  },
+  {
+    "price": "588200.0",
+    "bodyType": "suv",
+    "name": "BMW X6 M60i xDrive",
+    "imagePath": "carDealership/scraper/photos/091be6749d2c41508a2aab581d54c932.png",
+    "color": "Mroźny czysty szary BMW Individual metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 4.3,
+    "topSpeed": "250",
+    "model": "X6 M60i",
+    "description": "Dzięki możliwości jazdy w trybie czysto elektrycznym na krótkich dystansach, ten model pozwala ograniczyć zużycie paliwa i emisję CO₂. Przełączenie na tryb hybrydowy odbywa się płynnie i automatycznie.",
+    "gasMileage": 5.97,
+    "vinNumber": "FM4BVKMY8FC83FNXW",
+    "productionYear": 2022,
+    "condition": "używany",
+    "mileage": 3002,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 530,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 530,
+        "fuelType": "benzyna",
+        "displacement": 4395,
+        "cylindersNumber": "8"
+      }
+    ]
+  },
+  {
+    "price": "256500.0",
+    "bodyType": "suv",
+    "name": "BMW X3 20 xDrive",
+    "imagePath": "carDealership/scraper/photos/76d4bc79530949019ea298782d5144e8.png",
+    "color": "Szary Sophisto Z Brylantowym Połyskiem Metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 7.8,
+    "topSpeed": "215",
+    "model": "X3 20",
+    "description": "Samochód hybrydowy łączy moc silnika spalinowego z efektywnością napędu elektrycznego, zapewniając cichą jazdę w mieście i dynamiczne osiągi na trasie. Idealny kompromis między ekologią a zasięgiem.",
+    "gasMileage": 4.44,
+    "vinNumber": "7TMFZUJ39KV6J7030",
+    "productionYear": 2023,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 208,
+        "fuelType": "elektryczny",
+        "capacity": 0.9
+      },
+      {
+        "type": "combustion",
+        "power": 208,
+        "fuelType": "benzyna",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "260000.0",
+    "bodyType": "suv",
+    "name": "BMW X4 xDrive20i",
+    "imagePath": "carDealership/scraper/photos/6afcbf9101d9438296cad78b769890f2.png",
+    "color": "Niebieski Phytonic metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 8.4,
+    "topSpeed": "215",
+    "model": "X4",
+    "description": "Ten samochód hybrydowy to propozycja dla kierowców, którzy chcą zmniejszyć swój ślad węglowy bez rezygnacji z tradycyjnej dynamiki i zasięgu. Zintegrowane systemy wspomagające dbają o optymalną efektywność jazdy.",
+    "gasMileage": 4.08,
+    "vinNumber": "S4V1VTWS9ZJ69J951",
+    "productionYear": 2022,
+    "condition": "używany",
+    "mileage": 389,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 184,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 184,
+        "fuelType": "benzyna",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "372500.0",
+    "bodyType": "suv",
+    "name": "BMW X3 M50 xDrive",
+    "imagePath": "carDealership/scraper/photos/31b1065462e64b5d9d4402a24497b21b.png",
+    "color": "Szary Dune Metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 4.6,
+    "topSpeed": "250",
+    "model": "X3 M50",
+    "description": "Zaawansowany system zarządzania energią pozwala inteligentnie wykorzystać oba źródła napędu. W połączeniu z typową dla BMW precyzją prowadzenia, auto oferuje komfort i oszczędność.",
+    "gasMileage": 4.59,
+    "vinNumber": "0ETU8AA99KDWJJPV2",
+    "productionYear": 2021,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 398,
+        "fuelType": "elektryczny",
+        "capacity": 0.9
+      },
+      {
+        "type": "combustion",
+        "power": 398,
+        "fuelType": "diesel",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "363000.0",
+    "bodyType": "suv",
+    "name": "BMW X4 M40i",
+    "imagePath": "carDealership/scraper/photos/32cca3802d2b4add8305a969db7cea01.png",
+    "color": "Żółty São Paulo M niemetalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 4.9,
+    "topSpeed": "250",
+    "model": "X4 M40i",
+    "description": "Dzięki możliwości jazdy w trybie czysto elektrycznym na krótkich dystansach, ten model pozwala ograniczyć zużycie paliwa i emisję CO₂. Przełączenie na tryb hybrydowy odbywa się płynnie i automatycznie.",
+    "gasMileage": 4.38,
+    "vinNumber": "LVL315US7Y3MUVDK7",
+    "productionYear": 2022,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 360,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 360,
+        "fuelType": "benzyna",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "185000.0",
+    "bodyType": "suv",
+    "name": "BMW X1 xDrive23i",
+    "imagePath": "carDealership/scraper/photos/0d74808a8efd4e2b9963565533537482.png",
+    "color": "Pomarańczowy Utah metalizowany",
+    "transmission": "7-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 7.1,
+    "topSpeed": "233",
+    "model": "X1",
+    "description": "Dzięki możliwości jazdy w trybie czysto elektrycznym na krótkich dystansach, ten model pozwala ograniczyć zużycie paliwa i emisję CO₂. Przełączenie na tryb hybrydowy odbywa się płynnie i automatycznie.",
+    "gasMileage": 3.57,
+    "vinNumber": "3271KHPS5H39SD28H",
+    "productionYear": 2023,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 218,
+        "fuelType": "elektryczny",
+        "capacity": 0.9
+      },
+      {
+        "type": "combustion",
+        "power": 218,
+        "fuelType": "diesel",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "350500.0",
+    "bodyType": "coupe",
+    "name": "BMW M440i xDrive Gran Coupe",
+    "imagePath": "carDealership/scraper/photos/fc9d5d98f33c415484b5c1a831ece245.png",
+    "color": "Niebieski tanzanit metalizowany BMW Individual",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 4.7,
+    "topSpeed": "250",
+    "model": "M440i",
+    "description": "BMW z napędem hybrydowym oferuje elastyczność użytkowania – ładowanie z gniazdka lub stacji publicznej oraz możliwość korzystania z silnika spalinowego na dłuższych trasach bez stresu o zasięg.",
+    "gasMileage": 3.94,
+    "vinNumber": "0VLCEPS74Z9MXM35J",
+    "productionYear": 2025,
+    "condition": "używany",
+    "mileage": 24210,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 374,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 374,
+        "fuelType": "benzyna",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "542500.0",
+    "bodyType": "cabriolet",
+    "name": "BMW M4 Competition M xDrive Cabrio",
+    "imagePath": "carDealership/scraper/photos/4df9a29d64f1465eb70ffbae822dd2c1.png",
+    "color": "Velvet Orchid metalizowany BMW Individual",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 4.9,
+    "topSpeed": "250",
+    "model": "M4 Competition M",
+    "description": "Zaawansowany system zarządzania energią pozwala inteligentnie wykorzystać oba źródła napędu. W połączeniu z typową dla BMW precyzją prowadzenia, auto oferuje komfort i oszczędność.",
+    "gasMileage": 5.3,
+    "vinNumber": "3C7VR7TV6ZCDA3ZRS",
+    "productionYear": 2025,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 374,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 374,
+        "fuelType": "diesel",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "390500.0",
+    "bodyType": "cabriolet",
+    "name": "BMW M440i xDrive Cabrio",
+    "imagePath": "carDealership/scraper/photos/23cb1c5f370d4dcabb97f7a82b1b6e1e.png",
+    "color": "Niebieski tanzanit metalizowany BMW Individual",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 4.7,
+    "topSpeed": "250",
+    "model": "M440i",
+    "description": "Dzięki możliwości jazdy w trybie czysto elektrycznym na krótkich dystansach, ten model pozwala ograniczyć zużycie paliwa i emisję CO₂. Przełączenie na tryb hybrydowy odbywa się płynnie i automatycznie.",
+    "gasMileage": 4.57,
+    "vinNumber": "0ACDTLF50T8BRTM40",
+    "productionYear": 2023,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 374,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 374,
+        "fuelType": "benzyna",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "350500.0",
+    "bodyType": "coupe",
+    "name": "BMW M440i xDrive Coupe",
+    "imagePath": "carDealership/scraper/photos/82c4ae9df16e42beb0e598ba5cfcbbb3.png",
+    "color": "Niebieski tanzanit metalizowany BMW Individual",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 4.7,
+    "topSpeed": "250",
+    "model": "M440i",
+    "description": "Dzięki możliwości jazdy w trybie czysto elektrycznym na krótkich dystansach, ten model pozwala ograniczyć zużycie paliwa i emisję CO₂. Przełączenie na tryb hybrydowy odbywa się płynnie i automatycznie.",
+    "gasMileage": 3.24,
+    "vinNumber": "YXRV9LJD6RCWLFHYS",
+    "productionYear": 2025,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 374,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 374,
+        "fuelType": "benzyna",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "159000.0",
+    "bodyType": "combi",
+    "name": "BMW 216i Active Tourer",
+    "imagePath": "carDealership/scraper/photos/6216137c883347b8a142afd068f7da8e.png",
+    "color": "Połyskujący miedziany szary, metalizowany",
+    "transmission": "7-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 6.7,
+    "topSpeed": "195",
+    "model": "216i Active Tourer",
+    "description": "Zaawansowany system zarządzania energią pozwala inteligentnie wykorzystać oba źródła napędu. W połączeniu z typową dla BMW precyzją prowadzenia, auto oferuje komfort i oszczędność.",
+    "gasMileage": 5.91,
+    "vinNumber": "P295CKVN01E9MV89K",
+    "productionYear": 2022,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 245,
+        "fuelType": "elektryczny",
+        "capacity": 14.2
+      },
+      {
+        "type": "combustion",
+        "power": 245,
+        "fuelType": "benzyna",
+        "displacement": 1499,
+        "cylindersNumber": "3"
+      }
+    ]
+  },
+  {
+    "price": "527500.0",
+    "bodyType": "suv",
+    "name": "BMW X7 xDrive40d",
+    "imagePath": "carDealership/scraper/photos/f1c13225870843c3bd3df240c8485afc.png",
+    "color": "Połyskujący miedziany szary metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 5.8,
+    "topSpeed": "250",
+    "model": "X7",
+    "description": "BMW z napędem hybrydowym oferuje elastyczność użytkowania – ładowanie z gniazdka lub stacji publicznej oraz możliwość korzystania z silnika spalinowego na dłuższych trasach bez stresu o zasięg.",
+    "gasMileage": 4.5,
+    "vinNumber": "NLZMMA1Z7LB1VBF6X",
+    "productionYear": 2022,
+    "condition": "używany",
+    "mileage": 31509,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 381,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 381,
+        "fuelType": "diesel",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "205000.0",
+    "bodyType": "suv",
+    "name": "BMW X1 sDrive18d",
+    "imagePath": "carDealership/scraper/photos/20302b63217445a3a1b09b91a638dc02.png",
+    "color": "Pomarańczowy Utah metalizowany",
+    "transmission": "7-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 7.1,
+    "topSpeed": "233",
+    "model": "X1",
+    "description": "BMW z napędem hybrydowym oferuje elastyczność użytkowania – ładowanie z gniazdka lub stacji publicznej oraz możliwość korzystania z silnika spalinowego na dłuższych trasach bez stresu o zasięg.",
+    "gasMileage": 3.42,
+    "vinNumber": "MSJ8CJ3A9NF68P4FU",
+    "productionYear": 2025,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 218,
+        "fuelType": "elektryczny",
+        "capacity": 0.9
+      },
+      {
+        "type": "combustion",
+        "power": 218,
+        "fuelType": "diesel",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "433000.0",
+    "bodyType": "suv",
+    "name": "BMW X6 xDrive30d",
+    "imagePath": "carDealership/scraper/photos/1c1933426512441891c56a54202bd682.png",
+    "color": "Szary drawit BMW Individual metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 5.4,
+    "topSpeed": "250",
+    "model": "X6",
+    "description": "Samochód hybrydowy łączy moc silnika spalinowego z efektywnością napędu elektrycznego, zapewniając cichą jazdę w mieście i dynamiczne osiągi na trasie. Idealny kompromis między ekologią a zasięgiem.",
+    "gasMileage": 3.94,
+    "vinNumber": "EFM0NGR474328XZSN",
+    "productionYear": 2023,
+    "condition": "używany",
+    "mileage": 20513,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 381,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 381,
+        "fuelType": "diesel",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "270000.0",
+    "bodyType": "suv",
+    "name": "BMW X4 xDrive20d",
+    "imagePath": "carDealership/scraper/photos/cf374ad5952548ecb1380ebf91006ab2.png",
+    "color": "Niebieski Phytonic metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 8.4,
+    "topSpeed": "215",
+    "model": "X4",
+    "description": "Zaawansowany system zarządzania energią pozwala inteligentnie wykorzystać oba źródła napędu. W połączeniu z typową dla BMW precyzją prowadzenia, auto oferuje komfort i oszczędność.",
+    "gasMileage": 4.93,
+    "vinNumber": "SPUPJH9NXUS3UGJ20",
+    "productionYear": 2025,
+    "condition": "używany",
+    "mileage": 391,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 184,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 184,
+        "fuelType": "benzyna",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "363000.0",
+    "bodyType": "suv",
+    "name": "BMW X4 M40d",
+    "imagePath": "carDealership/scraper/photos/29a152a00b724e48bc0fcce95ed659ff.png",
+    "color": "Żółty São Paulo M niemetalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 4.9,
+    "topSpeed": "250",
+    "model": "X4 M40d",
+    "description": "Zaawansowany system zarządzania energią pozwala inteligentnie wykorzystać oba źródła napędu. W połączeniu z typową dla BMW precyzją prowadzenia, auto oferuje komfort i oszczędność.",
+    "gasMileage": 3.39,
+    "vinNumber": "NCKJXPT61V7YNRVH8",
+    "productionYear": 2025,
+    "condition": "używany",
+    "mileage": 23213,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 360,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 360,
+        "fuelType": "diesel",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "266500.0",
+    "bodyType": "suv",
+    "name": "BMW X3 20d xDrive",
+    "imagePath": "carDealership/scraper/photos/313b29a1895648a695b7be4e14dc6f9d.png",
+    "color": "Szary Sophisto Z Brylantowym Połyskiem Metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 7.8,
+    "topSpeed": "215",
+    "model": "X3 20d",
+    "description": "Samochód hybrydowy łączy moc silnika spalinowego z efektywnością napędu elektrycznego, zapewniając cichą jazdę w mieście i dynamiczne osiągi na trasie. Idealny kompromis między ekologią a zasięgiem.",
+    "gasMileage": 4.08,
+    "vinNumber": "6WXAKV6M02HGC28L3",
+    "productionYear": 2024,
+    "condition": "używany",
+    "mileage": 26853,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 208,
+        "fuelType": "elektryczny",
+        "capacity": 0.9
+      },
+      {
+        "type": "combustion",
+        "power": 208,
+        "fuelType": "benzyna",
+        "displacement": 1998,
+        "cylindersNumber": "4"
+      }
+    ]
+  },
+  {
+    "price": "560500.0",
+    "bodyType": "limuzyna",
+    "name": "BMW 740d xDrive Limuzyna",
+    "imagePath": "carDealership/scraper/photos/6a2d290cc9df4559a45937ce24112034.png",
+    "color": "Mroźny głęboki szary BMW Individual metalizowany",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 5.8,
+    "topSpeed": "250",
+    "model": "740d",
+    "description": "Zaawansowany system zarządzania energią pozwala inteligentnie wykorzystać oba źródła napędu. W połączeniu z typową dla BMW precyzją prowadzenia, auto oferuje komfort i oszczędność.",
+    "gasMileage": 3.55,
+    "vinNumber": "91HL7JJD8RA0UJWSM",
+    "productionYear": 2021,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 299,
+        "fuelType": "elektryczny",
+        "capacity": 0.9
+      },
+      {
+        "type": "combustion",
+        "power": 299,
+        "fuelType": "benzyna",
+        "displacement": 2993,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "350500.0",
+    "bodyType": "coupe",
+    "name": "BMW M440d xDrive Coupe",
+    "imagePath": "carDealership/scraper/photos/6299e90778ea424f89b09799b732a959.png",
+    "color": "Niebieski tanzanit metalizowany BMW Individual",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 4.7,
+    "topSpeed": "250",
+    "model": "M440d",
+    "description": "BMW z napędem hybrydowym oferuje elastyczność użytkowania – ładowanie z gniazdka lub stacji publicznej oraz możliwość korzystania z silnika spalinowego na dłuższych trasach bez stresu o zasięg.",
+    "gasMileage": 3.66,
+    "vinNumber": "Y9YCTHGS5N19W2HAV",
+    "productionYear": 2023,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 374,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 374,
+        "fuelType": "diesel",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "390500.0",
+    "bodyType": "cabriolet",
+    "name": "BMW M440d xDrive Cabrio",
+    "imagePath": "carDealership/scraper/photos/7b065f0f409848e68b87e01e0949a8fa.png",
+    "color": "Niebieski tanzanit metalizowany BMW Individual",
+    "transmission": "8-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 4.7,
+    "topSpeed": "250",
+    "model": "M440d",
+    "description": "BMW z napędem hybrydowym oferuje elastyczność użytkowania – ładowanie z gniazdka lub stacji publicznej oraz możliwość korzystania z silnika spalinowego na dłuższych trasach bez stresu o zasięg.",
+    "gasMileage": 5.37,
+    "vinNumber": "MYPZ6G765AA32JX46",
+    "productionYear": 2021,
+    "condition": "używany",
+    "mileage": 15756,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 374,
+        "fuelType": "elektryczny",
+        "capacity": 0.4
+      },
+      {
+        "type": "combustion",
+        "power": 374,
+        "fuelType": "benzyna",
+        "displacement": 2998,
+        "cylindersNumber": "6"
+      }
+    ]
+  },
+  {
+    "price": "170000.0",
+    "bodyType": "coupe",
+    "name": "BMW 218d Gran Coupe",
+    "imagePath": "carDealership/scraper/photos/65b91da9c6d14ff09167961d95f7940c.png",
+    "color": "Czerwień Dragon Fire metalizowany",
+    "transmission": "7-stopniowa, automatyczna",
+    "drivetrainType": "Napęd przedni",
+    "acceleration": 7.9,
+    "topSpeed": "230",
+    "model": "218d Gran Coupe",
+    "description": "Ten samochód hybrydowy to propozycja dla kierowców, którzy chcą zmniejszyć swój ślad węglowy bez rezygnacji z tradycyjnej dynamiki i zasięgu. Zintegrowane systemy wspomagające dbają o optymalną efektywność jazdy.",
+    "gasMileage": 5.59,
+    "vinNumber": "HRX63U80XVAKN2Z7G",
+    "productionYear": 2023,
+    "condition": "nowy",
+    "mileage": 0,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 170,
+        "fuelType": "elektryczny",
+        "capacity": 0.9
+      },
+      {
+        "type": "combustion",
+        "power": 170,
+        "fuelType": "diesel",
+        "displacement": 1499,
+        "cylindersNumber": "3"
+      }
+    ]
+  },
+  {
+    "price": "155000.0",
+    "bodyType": "compact",
+    "name": "BMW 118d",
+    "imagePath": "carDealership/scraper/photos/ca22c92847954da7a691a88b52e34bd7.png",
+    "color": "Zielony Cape York metalizowany",
+    "transmission": "7-stopniowa, automatyczna",
+    "drivetrainType": "Napęd przedni",
+    "acceleration": 7.8,
+    "topSpeed": "226",
+    "model": "118d",
+    "description": "Zaawansowany system zarządzania energią pozwala inteligentnie wykorzystać oba źródła napędu. W połączeniu z typową dla BMW precyzją prowadzenia, auto oferuje komfort i oszczędność.",
+    "gasMileage": 5.49,
+    "vinNumber": "6SPJJ9FF4D37XL3TF",
+    "productionYear": 2025,
+    "condition": "używany",
+    "mileage": 21618,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 170,
+        "fuelType": "elektryczny",
+        "capacity": 0.9
+      },
+      {
+        "type": "combustion",
+        "power": 170,
+        "fuelType": "benzyna",
+        "displacement": 1499,
+        "cylindersNumber": "3"
+      }
+    ]
+  },
+  {
+    "price": "179000.0",
+    "bodyType": "combi",
+    "name": "BMW 218d Active Tourer",
+    "imagePath": "carDealership/scraper/photos/535d19a466c7414eb8a75adcb65dd6b3.png",
+    "color": "Połyskujący miedziany szary, metalizowany",
+    "transmission": "7-stopniowa, automatyczna",
+    "drivetrainType": "na wszystkie koła",
+    "acceleration": 6.7,
+    "topSpeed": "195",
+    "model": "218d Active Tourer",
+    "description": "BMW z napędem hybrydowym oferuje elastyczność użytkowania – ładowanie z gniazdka lub stacji publicznej oraz możliwość korzystania z silnika spalinowego na dłuższych trasach bez stresu o zasięg.",
+    "gasMileage": 3.98,
+    "vinNumber": "N0P70GNU8TWGB5ULM",
+    "productionYear": 2024,
+    "condition": "używany",
+    "mileage": 39804,
+    "engines": [
+      {
+        "type": "electric",
+        "power": 245,
+        "fuelType": "elektryczny",
+        "capacity": 14.2
+      },
+      {
+        "type": "combustion",
+        "power": 245,
+        "fuelType": "diesel",
+        "displacement": 1499,
+        "cylindersNumber": "3"
+      }
+    ]
+  }
+]
